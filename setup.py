@@ -33,7 +33,8 @@ EXTRAS_REQUIRE = {
         'codecov'
     ],
     'dev': [
-        'twine'
+        'twine',
+        'setuptools>=40.6.3'
     ]
 }
 
