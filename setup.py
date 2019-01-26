@@ -34,6 +34,7 @@ EXTRAS_REQUIRE = {
     ],
     'dev': [
         'twine',
+        'wheel',
         'setuptools>=40.6.3'
     ]
 }
