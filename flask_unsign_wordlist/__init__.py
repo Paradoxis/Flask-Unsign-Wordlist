@@ -1,8 +1,4 @@
 __version__ = '2021.1'
-__version__ = '0.0.6'
-=======
-__version__ = '2021.1'
->>>>>>> Stashed changes
 __url__ = 'https://github.com/Paradoxis/Flask-Unsign-Wordlist'
 __author__ = 'Luke Paris (Paradoxis)'
 
