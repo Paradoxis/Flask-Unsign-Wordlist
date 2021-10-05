@@ -9826,6 +9826,7 @@
 "a-key-goes-here"
 "a-secret-access-key"
 "a-secret-key"
+"a-very-secret-key"
 "a.valid.apikey"
 "a01298dab24aa3c62adea05c6a79392e"
 "a021d8b08999858216f202033b8124c4c8ec34590c3c62bec68e08e37526176c64d3d396b1e9109f74966b22056a65f557d6fd761093992d5641eb8a741bfc39"
@@ -13249,6 +13250,7 @@
 "nxqYrh1dLlmzmuXD5NfN3wtfOVBBmHqWqG48K8tGu8NhuT9zT3"
 "nyphree"
 "o"
+"ö"
 "o.blaeudeusadushdufhsfs"
 "o0WmI4QYaEs+yOmttHPvm1wH/y6eRlBPVrMpcoE2RVw="
 "o0zlv@74u4e3s+o0^h$+tlalh&$r(7hbx01g4^h5-3gizj%hub"
@@ -15899,16 +15901,15 @@
 "~0.4.0"
 "~1.0.0"
 "~> 0.9.3"
-"ö"
-"رمز المرور غير صحيح"
-"‌​f6ddfgdfgdfgdfgdf"
-"••••••••••••••••••••••••••••••••••••••••••••"
 "…"
 "….."
-"●●●●●●●●"
+"‌​f6ddfgdfgdfgdfgdf"
+"رمز المرور غير صحيح"
 "请填入qiniu access key"
 "请填入qiniu secret key"
 "请输入密钥"
+"●●●●●●●●"
+"••••••••••••••••••••••••••••••••••••••••••••"
 '              '
 '             '
 '      description: Secret key'
@@ -22591,6 +22592,7 @@
 'AAAAAAAAAAAAAAAAAA'
 'AAAAAAAAAAAAAAAAAAA'
 'AAAAAAAAAAAAAAAAAAAA'
+'ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ'
 'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA%2FAAAAAAAAAAAAAAAAAAAA%3DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA'
 'AAAAAAAAAAAAAAAAAAAAAPV7eAAAAAAAN7q56yJ8wNHhsagDn06qiJ0Io00%3DfdvXQaVKHFS3q1hd3y8fVQdIbntIHN2iTsBTk0f6jQK7lxcDo5'
 'AAAAAG78XmM:APA91bFRHpzuEIgiQRmPUm4uRy8bygNGr1h2Oq3ydc5WtKbrfJA8NVAaGIAxbQELfcOWwN2OR4pf5NzSRuuWOYj_P-XXXXXXXX'
@@ -30561,6 +30563,7 @@
 'clavedelaaplicacion'
 'clavemitica'
 'clavesecreta'
+'clé_secrète'
 'cli'
 'click'
 'cliendID'
@@ -30604,7 +30607,6 @@
 'cloudcomputing'
 'cluster'
 'cluster_id'
-'clé_secrète'
 'cmep273_233333'
 'cms'
 'cna340'
@@ -40330,24 +40332,23 @@
 '~> 4.9.0'
 '~removed'
 '~~~~~~my api key'
-'ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆ'
-'хххххххх'
-'—— MY_SECRET_KEY_HERE ———'
 '…'
 '…/…+…'
+'—— MY_SECRET_KEY_HERE ———'
+'��L���vl�6��Z5'
+'切克闹'
+'김성제'
 '………...'
 '……………'
 '…………….'
 '……………..'
-'◼︎◼︎◼︎◼︎◼︎◼︎'
-'その目だれの目?'
-'你的某个开启了服务的应用的accesskey'
-'你的某个开启了服务的应用的secretkey'
-'切克闹'
-'实缴出资额（万元）'
 '環境変数にSECRET_KEYを設定しておく'
-'认缴出资额（万元）'
 '请填入豆瓣api key'
 '请填入豆瓣api secret'
-'김성제'
-'��L���vl�6��Z5'
+'その目だれの目?'
+'хххххххх'
+'实缴出资额（万元）'
+'认缴出资额（万元）'
+'◼︎◼︎◼︎◼︎◼︎◼︎'
+'你的某个开启了服务的应用的accesskey'
+'你的某个开启了服务的应用的secretkey'
