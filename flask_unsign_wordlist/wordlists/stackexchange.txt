@@ -13,6 +13,8 @@
 "devel"
 "fake key man"
 "hehe"
+"hi this key is secret"
+"hwiu2222"
 "mysecret"
 "qzy4HQe0tr1vhOgA6UTVssH9QvWJW2oL"
 "ti=his is a test"
@@ -27,10 +29,12 @@
 'abc123ced456'
 'bindthemostselling'
 'cac78a5498388aa4a95fb2be0f0a6499'
+'d43b80c0727dca296c607fe8f8db478264'
 'eigeinsonriuosvnirosjvsoe'
 'enter-your-app-secret-key'
 'espejgildvkxm'
 'hjshjhdjah kjshkjdhjs'
+'my_hash_is_here'
 'sdfnbsifhosdfsdsfsddfsdfiewl'
 'secretomucho'
 'welfhwdlhwdlfhwelfhwlehfwlehfelwehflwefwlehflwefhlwefhlewjfhwelfjhweflhweflhwel'
