@@ -6,9 +6,12 @@
 "Amma"
 "HEXODECICUL"
 "MY_KEY"
+"My_secret_key"
 "PQrs12t46uv"
 "PQrs12t46uvvrty567"
+"Thisisyoursecret"
 "Zd9TUg1aE03bHc28"
+"amaramw123"
 "b'QlJ\x99\xf2\xb1\x87\xc0\x87\x1b\xd7\xe9\xd3\xef\x9d\xe5'"
 "devel"
 "fake key man"
@@ -20,6 +23,7 @@
 "ti=his is a test"
 '-mYrZF_M:uF-N#&Bi6M"dV4Og_Q8sO3IZE>Bdv(q<o!}t!3pU9#z%ugwzgCI_6'
 '....'
+'2164e34cc6e79f2d731fd52b7e4b4858'
 '7738ea1a60fd3213606f4d42846d3337'
 '8e3416a9c67b328517b7b758875aaea0'
 '934kegn298u54kjgnjdkrbg9u939'
@@ -28,6 +32,7 @@
 'Deleted_for_security'
 'NotForYou'
 'REMOVED_KEY'
+'SomethingSecret'
 ']TZ6kf8E9VV{~jCeTu~.]nZytGamY'
 'a06e36942e9bfff5825591722ceaa170'
 'abc123ced456'
@@ -41,4 +46,5 @@
 'my_hash_is_here'
 'sdfnbsifhosdfsdsfsddfsdfiewl'
 'secretomucho'
+'uguguyguyu'
 'welfhwdlhwdlfhwelfhwlehfwlehfelwehflwefwlehflwefhlwefhlewjfhwelfjhweflhweflhwel'
