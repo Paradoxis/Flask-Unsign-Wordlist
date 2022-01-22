@@ -21,6 +21,7 @@
 "mysecret"
 "qzy4HQe0tr1vhOgA6UTVssH9QvWJW2oL"
 "ti=his is a test"
+'#$%4890+HjPç'
 '-mYrZF_M:uF-N#&Bi6M"dV4Og_Q8sO3IZE>Bdv(q<o!}t!3pU9#z%ugwzgCI_6'
 '....'
 '2164e34cc6e79f2d731fd52b7e4b4858'
@@ -43,6 +44,7 @@
 'enter-your-app-secret-key'
 'espejgildvkxm'
 'hjshjhdjah kjshkjdhjs'
+'kungfoo'
 'my_hash_is_here'
 'sdfnbsifhosdfsdsfsddfsdfiewl'
 'secretomucho'
