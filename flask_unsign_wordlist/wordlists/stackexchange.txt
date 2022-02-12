@@ -5,6 +5,7 @@
 "ASGH}|#%*9"
 "Amma"
 "HEXODECICUL"
+"Iknowwhatthesecretkeyis"
 "MY_KEY"
 "My_secret_key"
 "PQrs12t46uv"
@@ -22,6 +23,7 @@
 "qzy4HQe0tr1vhOgA6UTVssH9QvWJW2oL"
 "ti=his is a test"
 '#$%4890+HjPç'
+'#secret!'
 '(key)'
 '-mYrZF_M:uF-N#&Bi6M"dV4Og_Q8sO3IZE>Bdv(q<o!}t!3pU9#z%ugwzgCI_6'
 '....'
@@ -54,5 +56,6 @@
 'sdfnbsifhosdfsdsfsddfsdfiewl'
 'secretomucho'
 'simple123'
+'tmp-secret-key'
 'uguguyguyu'
 'welfhwdlhwdlfhwelfhwlehfwlehfelwehflwefwlehflwefhlwefhlewjfhwelfjhweflhweflhwel'
