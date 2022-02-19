@@ -52,6 +52,7 @@
 'hjshjhdjah kjshkjdhjs'
 'its a secret, im not gonna put it on stack overflow'
 'kungfoo'
+'my-very-very-secret-key'
 'my_hash_is_here'
 'sdfnbsifhosdfsdsfsddfsdfiewl'
 'secretomucho'
