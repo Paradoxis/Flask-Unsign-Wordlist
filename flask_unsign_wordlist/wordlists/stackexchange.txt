@@ -21,6 +21,7 @@
 "hwiu2222"
 "mysecret"
 "qzy4HQe0tr1vhOgA6UTVssH9QvWJW2oL"
+"this is a secret key!"
 "ti=his is a test"
 '#$%4890+HjPç'
 '#secret!'
@@ -36,11 +37,13 @@
 '<< KEY >>'
 'Adb10C94wKJBBWJD89waABdaw1AKD01dawe112a'
 'Deleted_for_security'
+'IGUANA'
 'NotForYou'
 'REMOVED_KEY'
 'SomethingSecret'
 ']TZ6kf8E9VV{~jCeTu~.]nZytGamY'
 'a06e36942e9bfff5825591722ceaa170'
+'aaa#'
 'abc123ced456'
 'bindthemostselling'
 'cac78a5498388aa4a95fb2be0f0a6499'
@@ -54,6 +57,7 @@
 'kungfoo'
 'my-very-very-secret-key'
 'my_hash_is_here'
+'omai wa mou shindeiru'
 'sdfnbsifhosdfsdsfsddfsdfiewl'
 'secretomucho'
 'simple123'
