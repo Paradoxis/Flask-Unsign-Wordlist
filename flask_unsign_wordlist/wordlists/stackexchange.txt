@@ -15,10 +15,12 @@
 "amaramw123"
 "b'QlJ\x99\xf2\xb1\x87\xc0\x87\x1b\xd7\xe9\xd3\xef\x9d\xe5'"
 "devel"
+"extremelysecretkeythatnoonewilleverknow"
 "fake key man"
 "hehe"
 "hi this key is secret"
 "hwiu2222"
+"my super secret key that no one is suppose to know"
 "mysecret"
 "qzy4HQe0tr1vhOgA6UTVssH9QvWJW2oL"
 "this is a secret key!"
@@ -62,6 +64,7 @@
 'my_hash_is_here'
 'omai wa mou shindeiru'
 'sdafwer3rw93ur9wu0er339d'
+'sdafwer3rw93ur9wu0er339de'
 'sdfnbsifhosdfsdsfsddfsdfiewl'
 'secretomucho'
 'simple123'
