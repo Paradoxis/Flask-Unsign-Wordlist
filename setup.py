@@ -10,7 +10,7 @@ import os
 import sys
 from shutil import rmtree
 
-from setuptools import find_packages, setup, Command
+from setuptools import setup, Command
 
 NAME = 'flask-unsign-wordlist'
 
@@ -117,7 +117,7 @@ setup(
     author_email=EMAIL,
     python_requires=REQUIRES_PYTHON,
     url=URL,
-    packages=find_packages(exclude=('tests',)),
+    packages=[NAME.replace('-', '_')],
     extras_require=EXTRAS_REQUIRE,
     entry_points=ENTRY_POINTS,
     install_requires=REQUIRED,
