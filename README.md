@@ -1,5 +1,5 @@
 # Flask Unsign Wordlist
-[![Build Status](https://travis-ci.com/Paradoxis/Flask-Unsign-Wordlist.svg?branch=master)](https://travis-ci.com/Paradoxis/Flask-Unsign-Wordlist)
+[![Build Status](https://app.travis-ci.com/Paradoxis/Flask-Unsign-Wordlist.svg?branch=master)](https://app.travis-ci.com/github/Paradoxis/Flask-Unsign-Wordlist)
 [![PyPI version](https://badge.fury.io/py/flask-unsign-wordlist.svg)](https://badge.fury.io/py/flask-unsign-wordlist)
 [![codecov](https://codecov.io/gh/Paradoxis/Flask-Unsign-Wordlist/branch/master/graph/badge.svg)](https://codecov.io/gh/Paradoxis/Flask-Unsign-Wordlist)
 ![total number of secrets: 45664](https://img.shields.io/badge/secrets-45664-brightgreen)
