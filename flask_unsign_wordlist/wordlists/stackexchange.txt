@@ -23,6 +23,7 @@
 "my super secret key that no one is suppose to know"
 "mysecret"
 "qzy4HQe0tr1vhOgA6UTVssH9QvWJW2oL"
+"s8dfn39fn923q"
 "this is a secret key!"
 "ti=his is a test"
 '#$%4890+HjPç'
@@ -42,6 +43,7 @@
 'Deleted_for_security'
 'IGUANA'
 'NotForYou'
+'PRIVATE'
 'REMOVED_KEY'
 'Slmjmls@89911@'
 'SomethingSecret'
@@ -57,6 +59,7 @@
 'eigeinsonriuosvnirosjvsoe'
 'enter-your-app-secret-key'
 'espejgildvkxm'
+'f645748071241866b90c405a391033ac'
 'flask-ajax file upload test'
 'hjshjhdjah kjshkjdhjs'
 'its a secret, im not gonna put it on stack overflow'
@@ -64,6 +67,7 @@
 'my-very-very-secret-key'
 'my_hash_is_here'
 'omai wa mou shindeiru'
+'samplestuff!'
 'sdafwer3rw93ur9wu0er339d'
 'sdafwer3rw93ur9wu0er339de'
 'sdfnbsifhosdfsdsfsddfsdfiewl'
@@ -73,3 +77,4 @@
 'tmp-secret-key'
 'uguguyguyu'
 'welfhwdlhwdlfhwelfhwlehfwlehfelwehflwefwlehflwefhlwefhlewjfhwelfjhweflhweflhwel'
+'yandexlyceum_secret_key'
