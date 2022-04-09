@@ -2,6 +2,7 @@
 "000abcdefghijk123456000"
 "1234"
 "1234-asdf-!@#$-ASDF"
+"123string"
 "ASGH}|#%*9"
 "Amma"
 "HEXODECICUL"
@@ -53,6 +54,7 @@
 'a06e36942e9bfff5825591722ceaa170'
 'aaa#'
 'abc123ced456'
+'ailinssecretkey'
 'bindthemostselling'
 'cac78a5498388aa4a95fb2be0f0a6499'
 'd43b80c0727dca296c607fe8f8db478264'
@@ -60,13 +62,17 @@
 'enter-your-app-secret-key'
 'espejgildvkxm'
 'f645748071241866b90c405a391033ac'
+'f8ef7794c87af3c748f5085e945b4cfd'
 'flask-ajax file upload test'
 'hjshjhdjah kjshkjdhjs'
 'its a secret, im not gonna put it on stack overflow'
 'kungfoo'
 'my-very-very-secret-key'
 'my_hash_is_here'
+'noget_hemmeligt'
+'nogethemmeligt'
 'omai wa mou shindeiru'
+'our very hard to guess secretfir'
 'samplestuff!'
 'sdafwer3rw93ur9wu0er339d'
 'sdafwer3rw93ur9wu0er339de'
@@ -74,6 +80,7 @@
 'secretomucho'
 'simple123'
 'sjdflksajflksajfsajflksajl'
+'thangvc91'
 'tmp-secret-key'
 'uguguyguyu'
 'welfhwdlhwdlfhwelfhwlehfwlehfelwehflwefwlehflwefhlwefhlewjfhwelfjhweflhweflhwel'
