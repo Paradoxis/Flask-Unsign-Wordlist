@@ -15,6 +15,7 @@
 "Zd9TUg1aE03bHc28"
 "amaramw123"
 "b'QlJ\x99\xf2\xb1\x87\xc0\x87\x1b\xd7\xe9\xd3\xef\x9d\xe5'"
+"beans and lettuce"
 "devel"
 "extremelysecretkeythatnoonewilleverknow"
 "fake key man"
@@ -39,6 +40,7 @@
 '8e3416a9c67b328517b7b758875aaea0'
 '934kegn298u54kjgnjdkrbg9u939'
 '<< KEY >>'
+'<hiddenValue>'
 'Adb10C94wKJBBWJD89waABdaw1AKD01dawe112a'
 'BB16'
 'Deleted_for_security'
@@ -85,3 +87,4 @@
 'uguguyguyu'
 'welfhwdlhwdlfhwelfhwlehfwlehfelwehflwefwlehflwefhlwefhlewjfhwelfjhweflhweflhwel'
 'yandexlyceum_secret_key'
+'ytestsone'
