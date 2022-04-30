@@ -3,8 +3,10 @@
 "1234"
 "1234-asdf-!@#$-ASDF"
 "123string"
+"AFN123"
 "ASGH}|#%*9"
 "Amma"
+"F1"
 "HEXODECICUL"
 "Iknowwhatthesecretkeyis"
 "MY_KEY"
@@ -19,6 +21,7 @@
 "devel"
 "extremelysecretkeythatnoonewilleverknow"
 "fake key man"
+"fsdijukofhselokiufhdskilujfhsdkihuifs"
 "hehe"
 "hi this key is secret"
 "hwiu2222"
@@ -44,6 +47,7 @@
 'Adb10C94wKJBBWJD89waABdaw1AKD01dawe112a'
 'BB16'
 'Deleted_for_security'
+'I15NxqBiJ7R9nnUWhM3Nd5dCu3TUM8su'
 'IGUANA'
 'NotForYou'
 'PRIVATE'
@@ -54,12 +58,14 @@
 '[REDACTED]'
 ']TZ6kf8E9VV{~jCeTu~.]nZytGamY'
 'a06e36942e9bfff5825591722ceaa170'
+'aN&^Q7&47C2Qwv9kv2rCvzcPC5C982Sn$YFg%CW$'
 'aaa#'
 'abc123ced456'
 'ailinssecretkey'
 'bindthemostselling'
 'cac78a5498388aa4a95fb2be0f0a6499'
 'd43b80c0727dca296c607fe8f8db478264'
+'e14c80be9484a60c179678f7a0c5d6f1'
 'eigeinsonriuosvnirosjvsoe'
 'enter-your-app-secret-key'
 'espejgildvkxm'
