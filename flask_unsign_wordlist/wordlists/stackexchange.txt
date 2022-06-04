@@ -33,6 +33,7 @@
 "mysecret"
 "qzy4HQe0tr1vhOgA6UTVssH9QvWJW2oL"
 "s8dfn39fn923q"
+"secret-token-output-from-terminal-as-above"
 "someweirdsecretkeywhatevermaybeuuid4"
 "this is a secret key!"
 "ti=his is a test"
@@ -71,6 +72,7 @@
 'abc123ced456'
 'abcabcabc123'
 'ailinssecretkey'
+'app1234'
 'bindthemostselling'
 'cac78a5498388aa4a95fb2be0f0a6499'
 'd43b80c0727dca296c607fe8f8db478264'
