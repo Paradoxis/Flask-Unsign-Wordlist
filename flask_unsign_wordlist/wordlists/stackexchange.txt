@@ -37,6 +37,8 @@
 "someweirdsecretkeywhatevermaybeuuid4"
 "this is a secret key!"
 "ti=his is a test"
+"wubba lubba dub dub"
+"yek_terces"
 '#$%4890+HjPç'
 '#$%^&*'
 '#secret!'
@@ -58,6 +60,7 @@
 'I15NxqBiJ7R9nnUWhM3Nd5dCu3TUM8su'
 'IGUANA'
 'Loony Toons'
+'Mario Nikolic learns programming'
 'NotForYou'
 'PRIVATE'
 'REMOVED_KEY'
