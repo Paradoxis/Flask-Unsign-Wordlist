@@ -36,6 +36,7 @@
 "s8dfn39fn923q"
 "secret-token-output-from-terminal-as-above"
 "someweirdsecretkeywhatevermaybeuuid4"
+"thepain"
 "this is a secret key!"
 "ti=his is a test"
 "wubba lubba dub dub"
