@@ -8,6 +8,7 @@
 "AFN123"
 "ASGH}|#%*9"
 "Amma"
+"Example_Key"
 "F1"
 "HEXODECICUL"
 "Iknowwhatthesecretkeyis"
@@ -39,6 +40,7 @@
 "thepain"
 "this is a secret key!"
 "ti=his is a test"
+"uhr78hv98n4n8y7b6em98x8794c87x3m98xtmmsce9n8ce"
 "wubba lubba dub dub"
 "yek_terces"
 '#$%4890+HjPç'
@@ -61,6 +63,7 @@
 'Deleted_for_security'
 'Hi Mr Sea'
 'I15NxqBiJ7R9nnUWhM3Nd5dCu3TUM8su'
+'I5aE2js75KeZHVx88qAm4gPHnDvM7lSD'
 'IGUANA'
 'Loony Toons'
 'Mario Nikolic learns programming'
@@ -82,6 +85,7 @@
 'abc123ced456'
 'abcabcabc123'
 'ailinssecretkey'
+'alksdfoaweiflsdkj'
 'app1234'
 'bindthemostselling'
 'cac78a5498388aa4a95fb2be0f0a6499'
@@ -100,6 +104,7 @@
 'my_hash_is_here'
 'noget_hemmeligt'
 'nogethemmeligt'
+'nonlosapraimai'
 'omai wa mou shindeiru'
 'our very hard to guess secretfir'
 'qwe'
