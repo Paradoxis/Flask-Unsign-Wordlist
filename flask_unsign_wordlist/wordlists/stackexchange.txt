@@ -34,6 +34,7 @@
 "hwiu2222"
 "my super secret key that no one is suppose to know"
 "mysecret"
+"neverforgetyoursurvivor"
 "qzy4HQe0tr1vhOgA6UTVssH9QvWJW2oL"
 "s8dfn39fn923q"
 "secret-token-output-from-terminal-as-above"
