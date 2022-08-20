@@ -14,6 +14,7 @@
 "Iknowwhatthesecretkeyis"
 "MY_KEY"
 "My_secret_key"
+"One Secret key here"
 "PQrs12t46uv"
 "PQrs12t46uvvrty567"
 "Thisisyoursecret"
@@ -23,6 +24,7 @@
 "bd6fee817230f43dbbadce4f"
 "beans and lettuce"
 "cokgizlibiranahtar"
+"coolguy"
 "devel"
 "ediolognomomongoloide"
 "extremelysecretkeythatnoonewilleverknow"
@@ -69,6 +71,7 @@
 'I15NxqBiJ7R9nnUWhM3Nd5dCu3TUM8su'
 'I5aE2js75KeZHVx88qAm4gPHnDvM7lSD'
 'IGUANA'
+'JUST_FOR_TEST'
 'Loony Toons'
 'Mario Nikolic learns programming'
 'NotForYou'
@@ -89,6 +92,7 @@
 'abc123ced456'
 'abcabcabc123'
 'adawdaf'
+'adjadlkahd'
 'ailinssecretkey'
 'alksdfoaweiflsdkj'
 'app1234'

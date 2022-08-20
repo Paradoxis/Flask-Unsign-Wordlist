@@ -113,6 +113,7 @@
 "!@wehjbeywe5425c456scjsuywiydbwbqwgdq)(U#*(WJh8uchQ&*Y*)3jnchdsbc"
 "!L0vEL@nGu@G3s$$sS753"
 "!L0vEb0o0o0k$sS753"
+"!T?..KdPcnmh$xE5!(8-SS:N(=[dytdmh*Z9?H/.Aijz]?KN]2n[/cU_.cCYK5Bv"
 "![Z@jXB!zZ))@b&2^<_^;OOKgZ}.5I$FUCK$0${hf`~yyL$'O[TRgH]*H!Ir+PK-j/*2e'"
 "!mzo53678912489"
 "!ng3[@"
@@ -267,7 +268,9 @@
 "(!TsPpOrTaL@)"
 "(&*SDya87dsya8dghP}_yadhsayAS*&dt&*^d%^&DS$AdasdtfiyguvasdvaG!Y#GUY@^%@R#^%&R%@^#rgj"
 "(( grab secrets_paas_accounts_admin_password ))"
+"(3kfo3)"
 "(A*FA(GAGASDA*&"
+"(G+KbPeShVmYq3t6v9y$B&E)H@McQfTjWnZr4u7x!z%C*F-JaNdRgUkXp2s5v8y/"
 "(amani)@###"
 "({[This is a secret]})"
 ")(n27=smi+_+_n8ye[i2hjfs}{>.m269f"
@@ -556,6 +559,7 @@
 "123456789oihabdadjKJADJEj&@YJDSjhde32FDqwaeudycer"
 "1234567dailywebcoding"
 "123456abcd"
+"123456plantai"
 "12345abcd"
 "12345hungry"
 "1234abcd"
@@ -587,6 +591,7 @@
 "1269a3845acac85161e11e51e098ac6be52926635348e1c1c2ca23c141e3179b"
 "1275e186f427443a6ceb5c75"
 "12931812-xasx22-123sd-22"
+"12DFEFRfjiryfhuw"
 "12abb748fd981b90aa22f165817d231f"
 "12b538a8b7c24dc2b1b496061a014e80"
 "12ddededd"
@@ -686,6 +691,7 @@
 "234345^^^^^gggg$$$$777%%%%$$rffff5245"
 "2374sfjk10r3ifjwksdhf"
 "239ksaliSnYa6c01anLAn235herE10"
+"23_mars_2000"
 "23df833be15d3ab59ba66172bcfb78a0"
 "23piojf0wojhfwiuhgfieh5uytger[p9ouhg"
 "246Pass"
@@ -790,6 +796,7 @@
 "444"
 "453456n5gerfdfgrb6bnr"
 "4545a4s5a4s15a4s5a4s541"
+"4564534456456"
 "4564544532643869758"
 "4564878532643869758"
 "4741"
@@ -848,6 +855,7 @@
 "5XVbne3AjPH35eEH8yQI"
 "5ZN5zi!45QUsGGh"
 "5_knjXBU5Z"
+"5a49527ccb0f5a62af57c729"
 "5af7bbcaa06c3affd04111afb4be6749dc49fd16b46df68605285b6c800bd780192b9bdd22ab9ed4d12e236c78afcb9a393ec15f71bbf5dc987d54727823bcbf"
 "5e3d7125660f4793bfe15a87f59e23c1"
 "5e6280b9898983409d9de359"
@@ -913,6 +921,7 @@
 "6d2e445309c2b7b6b9020f09de850e194e54175d5978f39558d42ca8bf5992a150f33549bdb8e82341bfe4c774555f30d1a7'
 "6d9c6a670685502e4408d959a05f4258136905aa"
 "6dF_ksyC2PaHJDLhgr2_joA12Zb48JjopdvVAGD3jJ49uPuy_Cvbo-WHjusl8rYpPqYJHoHgT053pZgvr6T6EXDTxq5BDCJBFetpbAkdVneMDSTk88RqOMnZeABhWnYx"
+"6e2db44e-2b19-4909-93b4-65ca2e10a135"
 "6eca1d24b145ed1fafc738d2afa023a3362b6813"
 "6f8c6cd39dabc7a5b32be6fdd8c8377d"
 "6fEZZbL2boTB0uA709qLByPaBPmqvnHBMojkIiPknDPnPhpGnt"
@@ -955,6 +964,7 @@
 "7fc2b780-6852-4e8c-9332-f869dc940b78"
 "7ffeb7d8-c673-4ead-a134-a18e2c29b7bc"
 "7h151553cr37k3y7h47n0b0dy5h0uldkn0w"
+"7maoYouW177N3v4Gu3ss1T"
 "7waNwWUO1iMUsSQZC5fl-2F8"
 "7yn^8pwp+yzd2l4ki6+v9kp(h)rzs$9gxu4ao^_p+9x_5+1*6o"
 "8%_jedw9*bzlgt81c4!bobfbawezne0z$zd3m5-&zk^2eaa0yc"
@@ -1112,6 +1122,7 @@
 "?\x07\x03\xcb\xcc\x9dxf1\x8af\xe7V\xf3\x8b3\x87S\x99"
 "?mIsunderSt@ndings!"
 "?pު?U???`????ZG??/m??"
+"@#!##@%#$$#^%^$^$@!##@#@%"
 "@#$%^&%&&^@**(*(!("
 "@$#~b&sad_/"
 "@*#(!HbJ@#LKJyl,!@#*aSDd**)sC^ExA&^*@#L!@#uiyoy:EWzA)R(_IAO:SD<?xiVqH{}#@$)_#(@)_IqI!"
@@ -1208,6 +1219,7 @@
 "ALGERNON"
 "ALL 4 one, 1 for all."
 "ANY KEY"
+"AOHFASIDHUSID#*#)!H@#BWQHBad0ia0s"
 "AOI"
 "API key:"
 "APIKEY"
@@ -1228,7 +1240,9 @@
 "ASDFKN"
 "ASDJSADKJ23432424DASKD"
 "ASDJSADKJDASKD"
+"ASDPOIZXCMNBQWEPIO123@@@#%$@."
 "ASDXSSDDFXXXSSSS"
+"ASFAFQER#r#@r@#$r%$t@$gtgdfadfadfeaf"
 "ASK"
 "AUTH_KWESI_SECRET"
 "AVeryUniquePasswordL1KeThis"
@@ -1309,6 +1323,7 @@
 "Atreyee"
 "Atws@#$%&19*^*54ERW@$^OX1MZU"
 "AuPZFKt8tD-VAs6SM3bw"
+"Aula de flask 2_testes"
 "Awesfdgf@"
 "Ayush"
 "Ayy lmao"
@@ -1316,6 +1331,7 @@
 "AzurCam123"
 "B!1w8NAt1T^%kvhUI*S^"
 "B4D_w0lf"
+"B6i6zsH!C6ez"
 "BACON"
 "BAD_SECRET_KEY"
 "BANNSALKSIAJAKL"
@@ -1365,12 +1381,14 @@
 "Blog"
 "Blue Eyes White Dragon"
 "Bluebear"
+"Bond18SINclair60!RoBoTIcs?P91YthOn"
 "Boogie"
 "Book keeping"
 "BootstrapIsLove"
 "Bosch@@2021"
 "Boxing is fun"
 "Brandon T"
+"BrianGiang"
 "Bruce Wayne"
 "Buda"
 "BuenaClave"
@@ -1451,6 +1469,7 @@
 "Content-Type"
 "Content-Type:multipart/related;boundary=***_sep_***"
 "CooKIEmONSter123xy0&!#usL*txGha_bsnSb72shjkshME42"
+"CookieOrderKey"
 "Coolkid counter demo"
 "Copy Secret Key"
 "Could be whatever I want. Really."
@@ -1503,6 +1522,7 @@
 "Developers' API"
 "Develoteca"
 "Devops_ESTEM"
+"Dgjoewheighe"
 "Dhjkasu2381hdfjkKUDr4dsajklDHUJUI489190"
 "Dhriti"
 "Dhrumil Patel"
@@ -1510,11 +1530,13 @@
 "Dirty little secret"
 "DisneyQuiz"
 "Distributed4Lyfe"
+"Do you even hunt bro?"
 "Do you have the key..."
 "DoNotTell"
 "Doesn'tMatterRn"
 "Dojo survey with validations is a secret"
 "Dominicks secret key!"
+"Domo Arigato Mr Robot0927"
 "Don't panic!"
 "Don't tell 'em. Don't tell 'em."
 "Don't tell anyone"
@@ -1524,6 +1546,7 @@
 "DontTell"
 "Donttestmypatience"
 "DooLouGulu"
+"Down_in_the_dm12"
 "DragonFire"
 "DragonX"
 "Droit d'acc\xe8s"
@@ -1691,6 +1714,7 @@
 "HS256"
 "HX5I09WBDSDF"
 "HamzaKhan1243"
+"Happy face sad soul"
 "Hard to guess string"
 "HardToGuessString"
 "Hardik"
@@ -1867,6 +1891,7 @@
 "Justw0rk!"
 "K15"
 "KALILA-CC"
+"KAUKEBOILONA"
 "KB0209"
 "KES_MJN"
 "KGCvzc5JUdxiaINKadLA"
@@ -1944,6 +1969,7 @@
 "Liberatus"
 "LifecycleConfiguration"
 "LinguisTic05"
+"Llave secreta"
 "Llavesecreta"
 "LmCOWJ~fj3PnfHTJp"
 "LogesnrejxEF,qS?"
@@ -1960,6 +1986,7 @@
 "MINHA-CHAVE-SECRETA"
 "MISSING_TWITTER_API_KEY"
 "MISSING_TWITTER_API_SECRET"
+"MMmlJZtkkQm7OlcaCJnbDTNRm7W7jdhetp4w6IqrZHVujXT7vUqP933KPEKcqPlJ4iAfo1nhZ7nM2aF1dCoDYQ"
 "MW3sr3ctkmRvagBE"
 "MXRg2upmZGaSR~2nMaGmiwW0o.lg_w"
 "MY SECRET KEY!!!!"
@@ -1988,6 +2015,8 @@
 "Mb.Jp2u/6XT/)b`."
 "MeSRc9ZI9SJDei2MaTueO3PPPCHAYP2X"
 "Meg"
+"Megalordalmighty"
+"Melissa"
 "Message"
 "Mev7TA_B*fygdin-byRy"
 "Mf\xf2\x94 \xb2^\x81\x92\xb2l\x8d\xc9]'\t\x86\xb9\xb4\xaa\xcc2\x01\xfe"
@@ -2031,6 +2060,7 @@
 "My super Secret Key goes here"
 "My super secret key"
 "My very secret key"
+"My-Name-is"
 "MyFlaskAPP"
 "MyKey"
 "MyProcessCompressor.BPM24"
@@ -2055,6 +2085,7 @@
 "NEEDS YOUR SECRET"
 "NEED_A_KEY_FOR_SESSION_VARIABLES"
 "NF484j33hSDDJFH9s83nb"
+"NFLvdiTYljeRPmiGpABfab57GHXevIlr"
 "NGUIMBIY//%&$/="
 "NGjehngsrkhgjsezjkgbjzFG"
 "NHN"
@@ -2088,6 +2119,7 @@
 "Nier_weapon_manager_sandia"
 "Ninja Rap"
 "Ninja"
+"Nisanth77131477!"
 "No forget python pls"
 "No secrets for Batman"
 "No secrets on github or youtube"
@@ -2288,6 +2320,7 @@
 "SATSolver"
 "SCOTT&STOTT's_SECRIT_PLAYS"
 "SCRTKY"
+"SDGASGW"
 "SDLOPMAX6BPWTDVQZZAR47JCVKQM4EI52LP4XLDO75M7OA2C2XZ7Z3UZ"
 "SDSADfbdfb_dgfsbsfgb"
 "SE-SanBedaLaw"
@@ -2312,6 +2345,7 @@
 "SENTRY_DSN"
 "SESSION_SECRET"
 "SETECASTRONOMY"
+"SETKEYHERE"
 "SET_SECRET_KEY"
 "SHA256"
 "SHHH"
@@ -2500,6 +2534,7 @@
 "Synfoco16"
 "T$13:GN%>O49@%/j=Z#=p`flc=CYR^k]+Os'^yrwB,m?%TLqD}j_HQ9OoL9NnN"
 "T<m\xe6p\xea\xff\\\x8bJa\xf8aD\x1fb"
+"TEMP VALUE CHANGE LATER"
 "TEMP"
 "TEMPKEYFORTESTING"
 "TEMPTESTEMP"
@@ -2516,6 +2551,7 @@
 "TFYSIN567"
 "THIERY IS MY KEY"
 "THIS IS A SECRET KEY $%12&*(VNIJG"
+"THIS IS A SECRET KEY USED TO SETUP SESSION"
 "THIS IS MY SECRET"
 "THIS IS NOT SECURE"
 "THIS IS USED TO SIGN AND VERIFY JWT TOKENS, REPLACE IT WITH YOUR OWN SECRET, IT CAN BE ANY STRING"
@@ -2594,6 +2630,7 @@
 "This is another super secret keyyyyyyyy"
 "This is hidden"
 "This is just secret key"
+"This is mine"
 "This is my impossible password."
 "This is my secret Key"
 "This is my secret key string"
@@ -2612,6 +2649,8 @@
 "This is totally a secure key I promise"
 "This key is a secret"
 "This key secret af"
+"This recipe"
+"This recipie"
 "This should be more secure than this"
 "This will change later but for now the secret key is HELLO WORLD"
 "This-is-our-super-secret-and-I-mean-top-secret-key"
@@ -2630,9 +2669,11 @@
 "ThisSecretKey"
 "This_is_a_secret"
 "This_is_very_secret_yes"
+"Thisisbullshit"
 "Thisiscrazy"
 "Thisishackathon"
 "Thisissecret"
+"Thisissocool_dude"
 "Thisisverysecret"
 "ThomasWang"
 "Thor is the best Avenger!"
@@ -2673,6 +2714,7 @@
 "Uhe"
 "Ui$,tmMeC2#2M$la>%k^^&8,j=(0h3n3obAIcLq6yVBGtTE%3,"
 "UkXp2s5v8y/B?D(G+KbPeShVmYq3t6w9z$C&F)H@McQfTjWnZr4u7x!A%D*G-KaP"
+"Ul7R@S#NH@pAsSWoRd"
 "UltimateKEY"
 "UltraSecretKey"
 "UniFI-image"
@@ -2702,6 +2744,7 @@
 "VatsalParsaniya"
 "VerSecretSecretKey"
 "VeryHardThoughtKey"
+"VerySecret"
 "VerySecret12345"
 "VerySecretKey"
 "VerySecretSecretKeey"
@@ -2740,6 +2783,7 @@
 "We assume session"
 "We have 3 Dog$ @ h0me!"
 "We're building a international payment processing service"
+"We_Go"
 "We_aint_going_back!"
 "Web-SSIS"
 "Welcome1"
@@ -2855,6 +2899,7 @@
 "\x04\x88\xAD\xE4"
 "\x05\xce\\2\xe9\xb4!lA:\xa2\xfa\xa3\x04\x8a\x90\xb2\x88\xe3\r\x9a\x15:O"
 "\x06\x9fw\xac>\xff\xe8j\x07\x00\x14\xc6Z\x03\xac\xd2Rv\x9d\x90\x87\x82\xd3\x83'"
+"\x0b\x16\x8al\x14\xa5&\xf2\xf5\x85\xf8\xed\t\xe8\xb1Z\x9e\xbbN\xfcR87"
 "\x1b\x86'\x19'\x16\x9f\\V\xee\xf0\xc6\nU\xe0\xf1\xceX~\x13K\x0bL\x93"
 "\x1fkX\xc6N\xb8v\xe7\xabS\xc5'O]\x05o\xab\xa2\x1c\xd1\x9f"
 "\x84/!\x16&\xe6\xeb\x8an\n\na\re\xb3\x11\xe5\xf1\xf6\xdd\xf8\xed\x05G"
@@ -3162,6 +3207,7 @@
 "any string but secret"
 "any string dont talk anyone"
 "any string will work for development"
+"any string you want"
 "any string you want."
 "any string"
 "any-string-just-keep-it-secret"
@@ -3249,6 +3295,7 @@
 "asdfa4wtW#$Gse4aGdfs"
 "asdfadffadfasdfasdfasdfasdfjlkjljlkjlj"
 "asdfasdf a sdfasd fadsfasdfasdf"
+"asdfasdf"
 "asdfasdfasdfasdf"
 "asdfasdfsadf asdfasdf"
 "asdfasfdasfdsafasddfsadfasdfsadfdas"
@@ -3258,6 +3305,7 @@
 "asdfghjkl789456123"
 "asdfghjkl;"
 "asdfghtdyrfvvtrhgfbvcwerasfd"
+"asdfjk;qwerty"
 "asdfjkl"
 "asdflanjl3242677293oljgs02932lnmdlsasdfv"
 "asdfqwerzxcv"
@@ -3268,6 +3316,7 @@
 "asdgfjhsdgfjhsdgryaesjtrjyetrjyestrajyrtesyjrtdyjrtasdyrtjsejrtestrerty"
 "asdhesakljklfasagwh39thgawdadsdadas4"
 "asdhfguuiwyrt674tuyTR%W&^TUYRGHDFG"
+"asdhiadpjkqw"
 "asdkasjlflakdjssad"
 "asdkfjaeowirualskdjflasdkf"
 "asdkjfbaskdljfouaksdhfklsadhlfhsdlifhsk"
@@ -3428,6 +3477,7 @@
 "banana123"
 "bananaman"
 "bananas are the best fruit"
+"bananas"
 "bananas_in_pajamas"
 "bangbangrootplaydeadn7#^+-u-#1wm=y3a$-#^jps5tihx5v_@-_(kxumq_$+$5r)bxo"
 "bankDB"
@@ -3466,6 +3516,7 @@
 "bfbfj34r4314rbhjf87f2ff"
 "bfewcbweucbwucbn"
 "bhagyashree"
+"bharath"
 "bhargavi09"
 "bhfelwjaqtg7yu2p"
 "bhjVH^&5Vhb"
@@ -3478,6 +3529,7 @@
 "big x`x`x`AAbalagan"
 "big_ol_secret"
 "bigbigbig"
+"bighw"
 "bigprojek"
 "bigsecret"
 "bigsupersecret"
@@ -3493,6 +3545,7 @@
 "blah_blah"
 "blah_blah_blah"
 "blahaj"
+"blahblah"
 "blahhhhhhhh"
 "blahthek"
 "bleh"
@@ -3519,6 +3572,7 @@
 "bonjour"
 "boobies"
 "boobs"
+"books secret key"
 "books2012"
 "bookworm"
 "boop"
@@ -3664,6 +3718,7 @@
 "clave muy secreta"
 "clave secreta"
 "clave super secreta de la encuesta"
+"clave super secreta"
 "clave ultra secreta"
 "clave"
 "clave_secreta"
@@ -3680,6 +3735,7 @@
 "client_secret_goes_here"
 "cloud"
 "cloudProvider Name"
+"cloudy"
 "cluster-wide-secret-key"
 "clv3rt64sjksfl"
 "clé-très-secrète"
@@ -3748,6 +3804,7 @@
 "counting"
 "country"
 "cov-19"
+"covid-vaccination-application"
 "crack"
 "cre=ebrorU#Ipr&b#gibapreyAqlmLwufof+7ipo4uJa@rozi2"
 "create"
@@ -3773,6 +3830,7 @@
 "d1aba190fe0b7742b3589f7d636fad42"
 "d236afa960de48d59b3a924c9a0c39e3"
 "d23by4wy53qu64uqa"
+"d247ftv2e7ycdb29uc9"
 "d2b41ae7-485a038b-06996013-81ea5"
 "d33p3nd"
 "d36d5433361f6337fd3d73bfeed6ec15"
@@ -3807,6 +3865,7 @@
 "dasdasda"
 "dasdasdasdasd"
 "dasf34sfkjfldfdsafjlfdsufewpodsfsdafdsaf"
+"daskldsaf#@%$#@$cc"
 "data_rep"
 "data_service"
 "database"
@@ -3816,6 +3875,7 @@
 "day1"
 "day2"
 "dbc594d500e154b107071242d8b1769e421498b7"
+"dbms"
 "dbmsminiproject"
 "dbmsproject"
 "dcf291b5572942f99adaab4c2090c006"
@@ -3846,6 +3906,7 @@
 "detectform"
 "deterministic"
 "dev ***************************"
+"dev ----"
 "dev fghjfjdgfjhhdffghdfhg"
 "dev key"
 "dev"
@@ -3933,12 +3994,14 @@
 "dojo key"
 "dojo survey WRGBWRGBSR"
 "dojo survey key"
+"dojo survey with validation secret key"
 "dojo survey"
 "dojo"
 "dojo_survey_52137"
 "dojo_survey_secret"
 "dojobi***duh"
 "dojos and ninjas ihfiueceiuh"
+"dojos and ninjas secret key"
 "dojos and ninjas"
 "dojos_and_ninjas_evan"
 "dojosandninjas"
@@ -4054,6 +4117,7 @@
 "elice"
 "elmejorgurpo"
 "email validation caiuhfvpsuef hdsfpu"
+"email validation with db secret key"
 "email"
 "email_secret_key"
 "emails"
@@ -4172,6 +4236,7 @@
 "feij134#$qaf3%QERFAF"
 "feitian"
 "fer"
+"ferrero rocher"
 "ffju48rf94u"
 "ffx#xkj$WWs2"
 "fgasjbhagkjs"
@@ -4218,6 +4283,7 @@
 "flows.flowlabel.*"
 "flyboy"
 "fmfm"
+"fmi0j930jrmiofeifmjioeajr20340ik"
 "fnAC2jTj27ACDWhxQx44GBK7biRn3Q6oEGZM6nzv"
 "foUsKP^2=ZKkDaCF^c6Y6b:i:WS30CO4sBMY6>s6aAS63sO/cEV9H0^EB`/cQC4<"
 "fob"
@@ -4226,6 +4292,7 @@
 "foo_access_token"
 "foobar"
 "foobarbaz"
+"foodapp"
 "fookeyid"
 "foolforyou"
 "foorikoori"
@@ -4261,6 +4328,7 @@
 "gBlFbFhcQ8siwlwSZMOOIYSJ0Gblsy16qappxJZt"
 "gZSAaVzquHNXkHlk9A6cpLaV0C3UfTibOCN0SaVn1x9lx"
 "gacapstone"
+"game"
 "gamelib-secret"
 "gameover"
 "games"
@@ -4286,6 +4354,8 @@
 "get_job_details"
 "get_pipeline_execution"
 "get_pipeline_state"
+"gettingbetter"
+"gettingstronger"
 "gettingtired"
 "gfh965fgs96h59fg65jsf4jjsfg0s"
 "gfnhdkjslioyubvdcbei88"
@@ -4299,6 +4369,7 @@
 "ghufidls89342hjkg83gnkfd8"
 "ghwtsgshbj2s2h2bdsweghd"
 "giahoa"
+"gigachad"
 "gigi"
 "gis_twitter_secret_"
 "git-ssh-key"
@@ -4338,6 +4409,7 @@
 "great number game"
 "great numbers game"
 "green bean beanie boyz"
+"greeshma"
 "grp7"
 "gsdfgsdfgser454rsgdfgserg"
 "gsdfwlknvlja"
@@ -4379,6 +4451,7 @@
 "haile"
 "hajury&bc*%bnceu"
 "halo orang saya juga orang"
+"hamdiozdemir61"
 "hammad"
 "hammybrrrrr"
 "han21"
@@ -4537,6 +4610,7 @@
 "huli_app_mySecretKey"
 "hunter2"
 "hush hush"
+"hush now child"
 "hush"
 "huzaifaanjum"
 "hwhefsewljfejrlesjfl"
@@ -4548,6 +4622,7 @@
 "i am that first secret key for that first demo in class"
 "i could take yo ass to mars in a day"
 "i dont like secrets"
+"i love pooja"
 "i lvoe coding"
 "i used to be an adventurer like you then i took an arrow in the knee"
 "i-dont-know-bro"
@@ -4634,6 +4709,7 @@
 "its a secret key!!!"
 "its a secret!"
 "its a secret"
+"its that time"
 "its_a_secret_to_everybody"
 "its_secret"
 "its_super_secret"
@@ -4694,6 +4770,7 @@
 "jfiwjeofeiu9532402-kofwjwiofkpkf-39-0"
 "jfkdsjjnafviweoubiuweafuweshfbksjahdvnifufbnsiruagrewgfyuiewbfiebfgfef"
 "jghfkd;sunhgfdop"
+"jgm"
 "jhfuyd54275870yyfk5366e"
 "jhgfsejkhdgfkjhs dbj"
 "jhgjhguy7iuh98h78989h976f756"
@@ -4762,6 +4839,7 @@
 "kamata16angulo"
 "kamera"
 "kappakeepo123"
+"kari-time"
 "kaujwshdkajdhf"
 "kbjcadjknlasndlk"
 "kcblog"
@@ -4791,6 +4869,7 @@
 "keep it shecret, keep it shafe"
 "keep secret in production"
 "keep this secret key safe!"
+"keep your sea-crits"
 "keep-it-secret"
 "keep_it_secret_keep_it_safe"
 "keep_secret_in_production"
@@ -4930,6 +5009,7 @@
 "lhl19940618"
 "lhsdbfnvjsndfviKHBJKHBki"
 "lia"
+"lib_software"
 "lilpeepfan"
 "line by line"
 "list"
@@ -4957,6 +5037,7 @@
 "log_user"
 "logging in in secret"
 "login and registration fipuyeghrvpiue"
+"login and registration secret key"
 "login key"
 "login"
 "login_demo"
@@ -4984,6 +5065,7 @@
 "lpage"
 "lpthw52"
 "luisparedez"
+"luisparedez123"
 "luna"
 "luvRT8YHB82*%YBvhikblnvb$ln!=*m"
 "lyc"
@@ -5034,6 +5116,7 @@
 "marcel"
 "marcusaureliusthebestrevengeisnotobelikethat"
 "maria"
+"maria's key"
 "marinaatwarez88"
 "marksman12"
 "marty"
@@ -5072,14 +5155,17 @@
 "mewmewmew"
 "mf"
 "mhsnrsadfhkykliffdga"
+"mi87542"
 "miau"
 "michal"
 "michelet"
 "miclave"
 "microsoftengage"
+"middle-out, why didn't I think of that?"
 "midomido"
 "migsdimalanta"
 "minha chave secreta"
+"minha_chave_secreta"
 "mirkizmaz"
 "mishmash"
 "misiontic2022"
@@ -5099,6 +5185,7 @@
 "moderateapple"
 "modfodscdksnckdcnkdsmsxalxm"
 "modules"
+"mohamed"
 "mohamed%$#^&^%$ahmed@@#||L?>"
 "moin"
 "momi"
@@ -5215,6 +5302,7 @@
 "nandha@30"
 "narayan"
 "naruto"
+"nathaliafarinha"
 "nckuuxhw"
 "ndc3C$C34c4hv03hd03yv3ERGkcug94cj9c5csCGW!)#dsfksFSDfsgksfdsFS94cjcf-"
 "neartobull3216"
@@ -5297,6 +5385,7 @@
 "numero_secreto"
 "nxqYrh1dLlmzmuXD5NfN3wtfOVBBmHqWqG48K8tGu8NhuT9zT3"
 "nyphree"
+"nãovaiarranjaralgoaqui"
 "o03af53aUrJHZAjD0eKWgWVTqS7XL7FU"
 "o0WmI4QYaEs+yOmttHPvm1wH/y6eRlBPVrMpcoE2RVw="
 "o0zlv@74u4e3s+o0^h$+tlalh&$r(7hbx01g4^h5-3gizj%hub"
@@ -5365,6 +5454,7 @@
 "our_project"
 "our_secret_key"
 "ourblog"
+"oussama"
 "over secret key"
 "overflow"
 "oy you gits"
@@ -5374,6 +5464,7 @@
 "p1e9r6l6e0m7o0e4n"
 "p1nkfluffyun1cornsdanc1ngonra1nbows"
 "p5BedB0gOrTzD4aU9Kd79AakgGrLo6R+CIlLdOJQugY="
+"pApAyAwHiP"
 "pLpMsMEby45G4mSW/bTR5FNVJmJUY46+GJDmKNyxnoiBiM0Y4WTd33P8SG8LWig+Ekaei53cbQPeZ2qePeA+j1jCPFacLq4mNOYrtHk5GmgL3RbVL8M6+3gDr2PzYXHIRJbrhdQEVn5Pno+uQVucVQdB04t89/1O/w1cDnyilFU="
 "pPXHcMwaX57xYh6a"
 "pXFb4i%*834gfdh96(3df&%18iodGq4ODQyMzc4lz7yI6ImF1dG"
@@ -5432,6 +5523,7 @@
 "philipp"
 "photo"
 "pickaprivatekeyplease"
+"pickles"
 "pidgey"
 "pinapple"
 "pinchellave"
@@ -5448,10 +5540,12 @@
 "planttect"
 "playbook"
 "playfair"
+"playful secrets"
 "please don't find this"
 "please fill in from APIKEY.txt"
 "please let this actually work and not be an api disaster"
 "please_define_a_secret_key_here"
+"please_give_10/10"
 "please_replace"
 "plsdontguessthepassword"
 "plsworksecretkey"
@@ -5542,6 +5636,7 @@
 "qp2e4fjaefvp0oLSD#_*$gfASD*^24WEF8f"
 "qq"
 "qq%%hunk742cce3^^p$f(x6bsxzh)*@$@c_dd^jb@9^+p)&m8#"
+"qqq"
 "qqqqq"
 "qqwew"
 "qrs"
@@ -5639,6 +5734,7 @@
 "recipe wala"
 "recipe"
 "recipeSecret"
+"recipes secret key"
 "recipes"
 "recipes-55464iuty23oiug3928t7ifagi32"
 "recipes_evan"
@@ -5703,6 +5799,7 @@
 "root_123"
 "rootroot"
 "rosebud"
+"routines"
 "rqP+bGT)p[kK<OBi5[Ph?6G(fqHte?"
 "rules/group[@key='%s']/rule[@key='%s']/@access"
 "rumair"
@@ -5751,6 +5848,7 @@
 "sairam"
 "sakldad91u3hn1ju12hklj1"
 "saldhjaslkjhdlkas"
+"salihan123"
 "salkhglakshlakjgelkwanghl"
 "saltpay@2021"
 "samabhpra"
@@ -5804,6 +5902,7 @@
 "sdfkdfsl23FSDvssfasf56332fdsdD"
 "sdfsanfdjksdbafkjsah"
 "sdfscaukvwjh3489o2y9rt87h'/.;'/.l;/."
+"sdfsdfasdf"
 "sdfsdjkfhsdakfhds23432"
 "sdhkjhdsklajf"
 "sdhsakjdhsakljlck"
@@ -5836,6 +5935,7 @@
 "secret key 314159"
 "secret key can't revel"
 "secret key for enrolee"
+"secret key message"
 "secret key test yo"
 "secret key yay"
 "secret key!"
@@ -5848,6 +5948,8 @@
 "secret secret key"
 "secret string"
 "secret things"
+"secret tunnel"
+"secret!!"
 "secret!"
 "secret!key"
 "secret"
@@ -5937,6 +6039,7 @@
 "sekret"
 "sekrit"
 "select_a_COMPLEX_secret_key_please"
+"sena"
 "senha"
 "senha_secreta"
 "senhadeseguranca"
@@ -6076,6 +6179,7 @@
 "sk_test_yBDhdmlkIJ6HlSwVNTK3veK2"
 "sk_test_z3b8Yfc0Mcuh0P3M7VDfGZkt"
 "skdflaiudbvlialvsdfvb82772fr982h89yfrh"
+"skdnalkscnsaklcnenefrfgsfgs"
 "skdnmlcnevnle332d2"
 "skeleton key"
 "skey"
@@ -6096,6 +6200,7 @@
 "slkfjldskjfdhfouie9382y3289989p32yfp9q32y97fge"
 "slowoku"
 "smile"
+"sncalscnlakcsanlcn"
 "sneakystabby"
 "snega12233"
 "snehashishkasecretkey"
@@ -6170,6 +6275,7 @@
 "special key"
 "specs"
 "speedrun"
+"spicy tacos"
 "spongebob_squarepants"
 "spooky"
 "sprite"
@@ -6375,6 +6481,7 @@
 "testday"
 "teste"
 "testedesenha"
+"testes"
 "testestsetestestst"
 "testing"
 "testing. testing. testing."
@@ -6400,6 +6507,7 @@
 "textissecret"
 "tfgPAU_GUI22"
 "tfsayxb akbuihd ui"
+"th1$_1$_@_compleX_keY"
 "thankunextcollegeisbadformentalhealth"
 "tharanga"
 "the basics of life with python"
@@ -6419,11 +6527,13 @@
 "the_secretest_most_secret_recipe"
 "thekey"
 "theking"
+"themagickeywordisboogger"
 "thepast"
 "there is no spoon"
 "thereisakeyhere"
 "thereisakeyherebutitsasecret"
 "theres a secret key in them thar hills"
+"there’s a difference between knowing the path and walking the path"
 "thesecretingredient"
 "theservantking_Kofo90love"
 "theyeeyeejuice"
@@ -6437,6 +6547,7 @@
 "this is a login demo"
 "this is a secret about boni"
 "this is a secret k"
+"this is a secret key"
 "this is a secret"
 "this is a secret."
 "this is a secure and secret key"
@@ -6447,6 +6558,7 @@
 "this is my secret key"
 "this is my secrete key"
 "this is new test"
+"this is not a secret"
 "this is only for testing"
 "this is password pls don't steal 4269"
 "this is secret"
@@ -6474,6 +6586,8 @@
 "this_is_a_totally_random_key_that_is_definitely_safe_and_secure"
 "this_is_hush_a_secret"
 "this_is_my_key_of_secrets"
+"this_is_my_secret_key"
+"this_is_only_a_test_don't_worry"
 "this_is_secret"
 "this_is_so_secret_wow"
 "this_key_is_super_secret_for_this_assignment"
@@ -6584,6 +6698,7 @@
 "uVla1FdpQ2HgmojeY9e6pobrS3lRGaeY"
 "uWeGEPI17r4mp5KRi3FLjljpuhFmc0gHp9F_YQWR"
 "udacity"
+"udashduAUSHAUHD%wefa%qssdarasd"
 "udon"
 "uefefo"
 "uehwr3493423j4j239k@#323i213ji3123"
@@ -6600,6 +6715,7 @@
 "umar"
 "umblog"
 "umeshnandargi"
+"una llave secreta"
 "unaClaveMuySeguraQueDeberiaSerAlmacenadaEn .env"
 "unauthorized0"
 "unguessable"
@@ -6768,6 +6884,7 @@
 "woeuifhdfjvbaoehgv=qieurgvq"
 "woifh28fhw93fh"
 "wojiubuzhidaole"
+"wolverine23!"
 "woodprojectwebsite"
 "woodridge"
 "woopie"
@@ -6976,6 +7093,7 @@
 "~!@#$%^&*()_+QWERASDFZXCV"
 "~/.ssh/ansible/id_rsa"
 "Çok gizli"
+"ærjüń"
 "ñhsaFSADfsdi239847adsfSDF(=)(&"
 "内緒"
 "噓"
@@ -7016,6 +7134,7 @@
 ' "supersecret'
 ' "this is secret key'
 ' "xxxx'
+' "you shall not pass'
 ' #secret'
 ' %^$&%^*&^'
 ' '
@@ -7071,6 +7190,7 @@
 ' <YOUR_SECRETE_KEY>'
 ' <insert secret key>'
 ' <your-secret-key>'
+' ALGUMSEGREDO'
 ' AS!N36D88sff12MKdk@f$&D24Ss&nd29S$$dew%%kk234fa%dSADSN921!'
 ' A\xcd!x\xa6a\xffS\xcc\xc9\xdf?\x15\xd7\xbb\xdf\x0b\x9f\x1cy\xdcb\x8b'
 ' AdmInj3r'
@@ -7743,6 +7863,7 @@
 '(=dbb!0q==@b9j$qlc6xw#w5u6)db(!!^wps1v%$vydp&5146r'
 '(@*&#(283&$(*#'
 '(@n(^v#@!apihmo4cywst78thz@k&!q^4g-auk@8xh9as$alj5'
+'(G+KbPeShVmYq3t6v9y$B&E)H@McQfTjWnZr4u7x!z%C*F-JaNdRgUkXp2s5v8y/'
 '(Ljava/lang/String;)Ljava/security/PrivateKey;'
 '(Ljava/lang/String;I)Z'
 '(Ljava/security/spec/KeySpec;)Ljava/security/PrivateKey;'
@@ -7914,6 +8035,7 @@
 '*@aa&b5o32(novqj)-gd^^*hqn$m*umu_j5_t#wj@h&7g$f=d8'
 '*GENERATE SECRET KEY*'
 '*SecretkeY*'
+'*WY#E@HDHWAKDJ213231Shdjahda8w342'
 '*ZJG4_@v5QViwaFqzB86.,r%Zp2wRma!'
 '*^$12x0l$h3qw-j!vml49=8=1*y2v9oyre5bfx()r7p6mb9au4'
 '*^*(*&)(*)(*afafafaSDD47j\3yX R~X@H!jmM]Lwf/,?KT'
@@ -9016,6 +9138,7 @@
 '12345678abcdefgh'
 '12345678asdfghjk'
 '12345678asdfghjwertyzxcvbn'
+'123456790'
 '1234567dailycoding'
 '123456abcd'
 '123456dahb'
@@ -9072,6 +9195,7 @@
 '1248612'
 '124tdaknsdfjka'
 '125'
+'125896jhyuio'
 '1258suy'
 '125987'
 '1266Z5G0o3QdyDh08F3WtURD'
@@ -9409,6 +9533,7 @@
 '289304jkdhfasd08f87sdayfasd89ufjsadfus'
 '28=q1sbwh@&m#xw!t@n(h7hxd#e(+l0aejp%&k_+j79%dbs^cc'
 '28bee993c5553ec59b3c051d535760198f6f018ed1cca1ddadcdb570352ef05b'
+'28fef1d9f7f9df134be573ae81b22ffff6a84e22710c927d'
 '28wrifn43qwrpfo24wrefichl'
 '292039103930'
 '2922e0e3dbd3522eb3ce45b12d39d083'
@@ -9524,6 +9649,7 @@
 '300633'
 '301856'
 '3021)%s9hf@m-7dhu3z296798c()d#5e^9y5+f+dq4+%-c8#nm'
+'3021alkfjf123=9saasd'
 '302hfjoDSKLOJ'
 '30378700c0091f34412ec9a082dca267'
 '30378700c0091f34412ec9a082dca268'
@@ -9670,6 +9796,7 @@
 '3cf156a6e05348bc93387228b70e56ab'
 '3course'
 '3d2a1046a17bb8d325403ae512e12f9467f159869817c834dac6aa7662235fb8'
+'3d391cc1342d15211f11e5f0552eb449a98a733500df293bb9ca7d6642bcc5e4'
 '3d6f45a5fc12445dbac2f59c3b6c7cb1'
 '3dF6htKPLjVoKnze'
 '3dc6abf3-84a9-4002-a64e-502fa601ca73'
@@ -9965,6 +10092,7 @@
 '561c5400-4ebf-4e45-a2ec-12d856638e45'
 '565656'
 '5656798291'
+'565b5551edbcd1eedce39c68022bb7111c2f714460640ce5934df85743b872ac'
 '56721329980543265787809923'
 '5680fd16956dd8ef2290e4c029e6e841'
 '56FDET4$dFP09kJ@#A'
@@ -10278,6 +10406,7 @@
 '73e1f2c96e364f0cc3371c31927ed156'
 '74125896321'
 '7419717b29de539ab0fbe35dcd7ca19d'
+'7455646444sd55sd5'
 '74691b88-71d8-4343-9d49-8c3ff68aaf1c'
 '74873486936hrfhjdjkhf'
 '7490017841visuafy7490017841'
@@ -10484,6 +10613,7 @@
 '8=(p%k1(76)_9u3i$b84@31415926535_uk65q=j0o@$v17)i3'
 '8BYkEfBA6O6donghhghffzWlSihBXox7C0sKR6b'
 '8BYkEfBA6O6donzWlSihBXox7C0sKR6b'
+'8BYkEfBA6O6donzWlSihBXox7Cffhjhhb'
 '8BYkEfBA6O6mth3sLXWlSihBXox7C0sKR6b'
 '8Cw5ysGd14dRObahAX/MtPrkmc7tOVj6OX5lM8HxerI='
 '8DYLnKekdKikMXe3IPYvJWvvgQpNiWRoHPtZFYGC'
@@ -10515,6 +10645,7 @@
 '8dab59a91eab93b3675f787cca843527'
 '8e532e20-84ea-400d-a4fb-96294e9416aa'
 '8e663c8614ced27c09b963f806ac46776a29db50'
+'8edf0f513be6eb81c0a72b8c28e4d2f1'
 '8f2cfea6b4c54e5b9cb21f6f70b7b8ce'
 '8f3dc21d612f5ef19dbc98221e1c7a0d'
 '8f42a73054b1749f8f58848be5e6502c'
@@ -11631,6 +11762,7 @@
 'Av&(b4&c>Re/PRg=Av&(b4&c>Re/PRg='
 'Ava Thorn has a secret key'
 'AvdscisWQ3cso_!!!!!3221@dcsncaoWcncjs122412vjjsa'
+'AvoU10reJEUMaamaN!'
 'Ax365lprtGHy'
 'Ayesha'
 'AymenMohammed'
@@ -11643,6 +11775,7 @@
 'B'
 'B007C4MP-AP1'
 'B0E7WS7AUBBI0CJV'
+'B0ZrPP9DW123j/3yX R~XHH!jmN]LWX/,?RT'
 'B1Z298g/3y2 R~lHHbjaN]LWX/,?RT'
 'B2opYVcP_L-u2B-VY0ubWA'
 'B33nL!keTHat$inceM@dden92'
@@ -11668,6 +11801,7 @@
 'BAD_SECRET_KEY_DEV_ONLY'
 'BAD_SECRET_KEY_FOR_DEVELOPMENT'
 'BAD_SECRET_KEY_FOR_LINDSEYS_WORDLE'
+'BAD_SESSION_KEY'
 'BAD_cxvxcvSECRET_KEY'
 'BATDONGSANHANOI'
 'BB'
@@ -12039,6 +12173,7 @@
 'DF25BCB5-35E3-41E4-980F-64D916D806FF'
 'DFC8713DF4E971D3FCFDF363121C5'
 'DGPF PRF CONFIG'
+'DHDF4t44yyhj'
 'DISCUSSION'
 'DISPLAYSECRET'
 'DISQUS_CLIENT_SECRET'
@@ -12210,6 +12345,7 @@
 'ENGII'
 'ENGO551_Lab1'
 'ENGR3200'
+'ENTER SECRET KEY HERE'
 'ENTER YOUR API KEY'
 'ENV_PRIVATE'
 'EPAjy3QrBczECOYDt2kXKBmjmJwcx6OE'
@@ -12631,6 +12767,7 @@
 'HelloAll'
 'HelloIAmLucifer!'
 'HelloWeAreBlackBulls!'
+'HelloWorld'
 'Hello_darkness Old friend'
 'Hello_to_me'
 'Help'
@@ -12683,6 +12820,7 @@
 'I Am Inevitable!'
 'I Have A Better Secret!'
 'I LOVE PYTHON'
+'I am Ni Ni'
 'I am a key'
 'I am a rich billionaire'
 'I am a secret key'
@@ -13007,6 +13145,7 @@
 'Kingisback'
 'Kirjaston P\\u00e4\\u00e4sy'
 'KirokuPass'
+'Kirti@02021997'
 'Kjd7XuRjnwmHHMmaMHDjzNjUTjqwpFjHtw0C8Wjd'
 'Kl\\u00E1vesov\\u00E1 zkratka'
 'Klawisz dost\u0119pu'
@@ -13069,6 +13208,7 @@
 'LUp$Dg?,I#i&owP3=9su+OB%`JgL4muLF5YJ~{;t'
 'La12127654~!'
 'Lakshmi*22'
+'Lakshya Srivastava Project'
 'Lamelo Ball'
 'Land API'
 'Ld7fqNs8GsXoxVIpuYHALEw0'
@@ -13161,6 +13301,7 @@
 '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'
+'MIMGD Group'
 'MINHA_CHAVE_CRIPTOGRADAFA'
 'MINIOACCESSKEY'
 'MINIOSECRETKEY'
@@ -13199,6 +13340,7 @@
 'Machado'
 'MachineLearningisLife#123'
 'Machine_Learning'
+'MadLibs are fun...add your own'
 'Madapea'
 'Mage is the best!'
 'Magento Core API'
@@ -13470,6 +13612,7 @@
 'OM,:@2.32sdf"]]q2^40-(@&#23_54=2]'
 'OMG so secret'
 'OMONOIALAOSPROTATHLIMA'
+'OOC1L7kTpayyulSxyuwnKA'
 'OOIKqAvROJI'
 'OPEN_WEATHER_MAP_API_KEY'
 'OPTUNE_API_KEY'
@@ -13497,6 +13640,7 @@
 'Oh my god I love cake so much holy shit how amazing is cake; like, seriously?'
 'OjG20o8eETyEPGaQjPKr2p1m'
 'Ok'
+'Oleot40'
 'Olla'
 'Om op Ding fa\xdfjehallde Sigge zohzejrihfe, tibb op $1 bovve udder donn $2 onge lang jedr\xf6k hallde.'
 'Omogo\u010di zasebna sporo\u010dila'
@@ -13950,6 +14094,7 @@
 'SECRET-KEY-FILE'
 'SECRET-KEY-FOR-EMACS-REQUEST-DEVELOPMENT'
 'SECRET123'
+'SECRETESCERTERCERTE'
 'SECRETHAIKYUNBATAU'
 'SECRETKEY'
 'SECRETKEYHERE'
@@ -14164,6 +14309,7 @@
 'Shared Secret'
 'Shared'
 'ShellClientAPI.vcproj'
+'Shhh!'
 'Shhh'
 'Shhhhhhh...'
 'Shhhhhhhhhh'
@@ -14181,6 +14327,7 @@
 'Signature'
 'SignatureMethod'
 'SignatureVersion'
+'Simon Yen'
 'Simple comparison'
 'SimpleKey'
 'Skeleton.WebAPI\\Skeleton.WebAPI.csproj'
@@ -14370,6 +14517,7 @@
 'THIS IS A HUGE SECRET'
 'THIS IS A SECRET KEY (JUST KIDDING)'
 'THIS IS AN INSECURE SECRET'
+'THIS IS MY SECRET KEY'
 'THIS KEY IS RANDOM'
 'THIS-A-KEY'
 'THISISAREALLYLONGSECRETKEYYOUNEEDTOSET'
@@ -14530,6 +14678,7 @@
 'This is an INSECURE secret!! DO NOT use this in production!!'
 'This is an UNSECURE Secret. CHANGE THIS for production environments.'
 'This is my Secret Key'
+'This is my first website from scratch'
 'This is my key'
 'This is my secret key'
 'This is my secret string'
@@ -14582,6 +14731,7 @@
 'Thisisasecret'
 'Thisisasecretkey12301902qsd90hwqeuy230489h'
 'ThisismynewSerectkey'
+'Thisismysecret'
 'Thisismysecretkey'
 'Thisissecret'
 'Thisissupposedtobesecret!'
@@ -14829,6 +14979,7 @@
 'WEIRD!'
 'WEWETWEFwef$%#$^RGG^Y$RGERGT#%^%^$%^465'
 'WHAAAAAAAT'
+'WHYDOYOUNOTWORKHUH'
 'WINEesjrhcb755bdhb13463'
 'WOO'
 'WRpGn47y9GxUGpFRnpoFw5Grz9l9BRSB'
@@ -15740,6 +15891,7 @@
 '\xee\x81\t3\x1c\x0c\xe6\xbf\x85\xb6F\xfe\x18\x02\xe8\xe0Q8a\xf83\xe8\xbd\xdc'
 '\xee\x94\x19\x8e\x03J7e~\xb3ai\x95\xf4Y\xa2\x01\xd6\xf1-\x9dP\xe2'
 '\xee\xfb\xfbhT\xa9_?\x9f\xd7P\xfe\xffw\x9b\xd2\xb7\xbf\x05\xc9\xf3k>m'
+'\xefM+\xc3\xc6nb\xc0\xe2\xaf\x94}t\x05L\x8c\x0c"\xb8\x97v\x17>\x8a'
 '\xef\x9d\x89Q\xa3\x0b4nAY\x13\xccg\x83&\xfc'
 '\xef\xc4\xe26m4\xa1;-b\x19\xad\xe2o\xac"p|\x1d:\x13\x0c\xaf\x11'
 '\xf0?a\x9a\\\xff\xd4;\x0c\xcbHi'
@@ -16459,6 +16611,7 @@
 'aifarming'
 'aight'
 'aigt4uj0itgk32qp9e421jur21'
+'aihfisdjfewsue'
 'aijefiljaljailjeiljfal;jl'
 'aimee&sarah!'
 'aimee'
@@ -16853,6 +17006,7 @@
 'asdfasdfasdf'
 'asdfasdfasdfqwerty'
 'asdfasdfdfasf'
+'asdfasdfkjasdlfkjasd'
 'asdfasdfqwerqwer'
 'asdfasfasfdasdf'
 'asdfasfdasfdsafasddfsadfasdfsadfdas'
@@ -17339,6 +17493,7 @@
 'bogus123'
 'boh44g@+)z_z=)oxxxi!8+tkke+2q%v3c&bl5imu(9tur6m1ya'
 'bolbbalgan4'
+'bolo de pote e muito bom'
 'boo!'
 'booboo'
 'boobs'
@@ -17570,8 +17725,10 @@
 'cats are cute'
 'cattofatto'
 'cava device list'
+'cavalo come arroz integral'
 'cavalo'
 'cayo'
+'cazapp'
 'cb1501f35e034aa18dd6c3743f4363bb'
 'cb8dcd50-18be-4042-bc3d-bfff84e5e8ab'
 'cb:Getting return_value->'
@@ -18778,6 +18935,7 @@
 'enter your secret key here'
 'enter-a-very-secretive-key-3479373'
 'enterprise app'
+'enteryoursecretkeyhere'
 'entry'
 'enum'
 'env'
@@ -19056,6 +19214,7 @@
 'fasdryrinv4573hf63h4'
 'fasfgdsgs'
 'fashion'
+'fasndlkjfhqakdwsjfnakjs,vnakwjeh'
 'fastly'
 'fastpost'
 'fat'
@@ -19090,6 +19249,7 @@
 'fdajfdkajfkldajfkldsjlffdsa3353253532'
 'fdakjwklhfdvbeapwfjpawejufdva[pkdfoea=ffaslfjdanlweofuiajppsedfnjhapenvaevadafeafadrhreagfv'
 'fdfd'
+'fdfdfdsds'
 'fdfsdfgd'
 'fdggfdgnsgdfgfd'
 'fdjasfkljaskl'
@@ -19124,6 +19284,7 @@
 'ff45c9aa-ee6e-456f-b84e-f037d2233108'
 'ff59a421971cd4de00539f85d307e6bb'
 'ff6c2abfaf83f2fabe219299245574f0d7534802d073b0f2'
+'ff6f300767d1d0c82e02cd79515d50becb5061421ca151c8'
 'ff82b98ef8727e388ea8bff0636b8f46926f873d7419e214185a4724888173c2d85e5c4a05ae98fefaa17b105457ae015f3b113cd48b45711b60317cd7760789'
 'ffc5c7a327818c3193a6b640'
 'ffce805ea02504f5a59820c1ea8985e0432f39566059d7f8'
@@ -19427,6 +19588,7 @@
 'gateways/%s/threatcount'
 'gateways/%s/users'
 'gateways/%s/users/%s'
+'gatinho manhoso'
 'gautham'
 'gb_message'
 'gc.gc.test1'
@@ -19696,6 +19858,7 @@
 'hackatoon'
 'hacker'
 'hacks'
+'hadoken'
 'hadoop_master_private_ip'
 'hah!!!'
 'haha'
@@ -19855,6 +20018,7 @@
 'hiiamyoursecret'
 'hijklmnop'
 'himalaya'
+'himanshu'
 'hin6bab8ge25*r=x&amp;+5$0kn=-#log$pt^#@vrqjld!^2ci@g*b'
 'hiogesopuiht34908-n57rthrfu'
 'hipython'
@@ -21209,6 +21373,7 @@
 'local'
 'local_development_fake_key'
 'local_instance'
+'localdev'
 'localhost'
 'localsecret'
 'location'
@@ -21416,6 +21581,8 @@
 'maomao'
 'mapbox-token'
 'mapred.mapper.new-api'
+'maria secret'
+'maria'
 'mario'
 'marj-app'
 'markdown-editable'
@@ -22339,6 +22506,7 @@
 'otp_enabled'
 'otu@v4l-i_ql@nn2y0^-^3#%_59-0-$97dm2rr*$2zvvs&5lh+'
 'ouboeuatbh93n0g'
+'our secret!'
 'our very hard to guess secret'
 'our123!'
 'ourSpace'
@@ -22403,6 +22571,7 @@
 'pakcitizen'
 'pakistan'
 'pakt'
+'palabra clave'
 'palabra secreta compleja pero es mejor usar variables de session'
 'palabra_muy_muy_secreta'
 'palabra_super_secreta'
@@ -22632,6 +22801,7 @@
 'portfolio2'
 'portfolioana'
 'ports'
+'postgres'
 'postgresisgood'
 'postman'
 'postmessage'
@@ -23221,6 +23391,7 @@
 'reversion'
 'rewqurieru23ew'
 'rfeuuerui48sd*fn%fvjdkna;ep2340fm'
+'rg52{4C"(dTo(m'
 'rgrwfgkfm5mterfmesmf5k4efmlrkltt5FGTvvtgtgrFTY'
 'rguwrghowrbrwbhbeitbnrwojgre'
 'rh*xiwr(f6_)j3w(@d1q=x5_hsvz^3kv2cab9nloo6ylb87t6*'
@@ -23407,6 +23578,7 @@
 'sadkfjsdaklfjdklxsvjksdajfsdaoifj'
 'sadklhjbgf lkaherbg likj'
 'sadlkfh1o3hi41769dsfg'
+'sadsadasfafasfasfsafa'
 'safe now'
 'safe, safe, safe'
 'safehouse'
@@ -23552,6 +23724,7 @@
 'sdp'
 'sds4878asdkfn38j9we'
 'sds4878asdkfn38j9wefdfsdfsdf'
+'sdsdsds'
 'sdtdfjgkuhg456t8ufhhgvkjgkvcfgdgdtfduyj.nbjg'
 'sdvfsd'
 'sdvnkcklasdhuv.bfvlduvhldfbvbfkvmfnbv'
@@ -23674,6 +23847,7 @@
 'secret69basedgamer'
 'secret999'
 'secret=%s'
+'secret?'
 'secret@'
 'secret@123'
 'secret@rousta@password_hash@840'
@@ -23737,6 +23911,7 @@
 'secrete key'
 'secrete'
 'secretiskey'
+'secretive'
 'secretivekey'
 'secretivekeyagain'
 'secretiveley'
@@ -24030,6 +24205,7 @@
 'showcase_id'
 'shravan_erefre'
 'shree'
+'shri'
 'shrimpy'
 'shtopor'
 'shubham'
@@ -24182,6 +24358,7 @@
 'some access token secret'
 'some access token'
 'some key for now'
+'some key for session'
 'some key that you will never guess'
 'some key'
 'some random key'
@@ -24206,6 +24383,7 @@
 'some thing something'
 'some token secret'
 'some token'
+'some very good and long secret with ümäuteàe%&'
 'some'
 'some+client+secret'
 'some-api-token'
@@ -24307,6 +24485,7 @@
 'son310'
 'song_server1'
 'sop_payment_page_url'
+'sopa é janta'
 'sopiro'
 'soren'
 'sortAsc'
@@ -24548,6 +24727,7 @@
 'super-secret_key'
 'super-secrets9-09itkp0-uuy'
 'super-secrte-key'
+'super-sectet-key'
 'super-session-key'
 'super-super-secret'
 'super.secret'
@@ -24832,6 +25012,7 @@
 'teste123'
 'testecomseguranca'
 'testerSecretKey'
+'testes'
 'testesdeupload'
 'testing secret'
 'testing this out'
@@ -25275,6 +25456,7 @@
 'uc'
 'uca'
 'ucanttouchthis'
+'ucom'
 'udacity'
 'udemy'
 'udhdchguygG^&*Y%76798UH&*GfD%^&TG%^$D^%&TXg*(YG7xf677'
@@ -25472,6 +25654,7 @@
 'value'
 'value='
 'vamos'
+'vanderleidev'
 'vandervilson'
 'vanita'
 'vaoz96wg81222c9'
@@ -25543,12 +25726,14 @@
 'vh+x[{,]ZvD5W\4U'
 'vhd89kb5upC6J3nPOtf1LVtE'
 'vhdvchvvhvdvhvjhvcjvcs'
+'vickyraghuwanshi'
 'victoriarocks'
 'vid$84s%19vhcss+(n$*pbc=nad2oab@^2s532_iesz2f6q=(z'
 'vid0'
 'vid1'
 'vid2'
 'videoplayer.usevaapi'
+'vieira'
 'viet'
 'view_private,write'
 'views.apps.view.AwsSecretAccessKey'
@@ -25651,6 +25836,7 @@
 'watcharaponweeraborirak'
 'watcharaponweeraborirakz'
 'water is life and we take it for granted'
+'waterdishow'
 'watubs'
 'wawodjjoijqon'
 'wayback machine simhash service'
@@ -25700,6 +25886,7 @@
 'weojfriowejiorjweiirjoewrj'
 'werewolf-bar-mitzvah'
 'werfehwfewhfwiehfew8h'
+'weroin80'
 'weruihjsighwajkabiu123'
 'werun'
 'westcoastdevs'
@@ -26025,6 +26212,7 @@
 'yada-yada'
 'yahia'
 'yakumareis'
+'yanzengyi'
 'yarin'
 'yashik1234'
 'yb6-)!6mlk=q2d2om*9yx_go1bpnd6j=rtl$c6f(k2!h2a*yqi'
@@ -26177,6 +26365,7 @@
 'yu&psu+x7y$n)+0u9c*yeyzjp4vg$ask6e#vfgo+rnfv1c$$ap'
 'yudohfkgbnxvsfagbfm@#%&(^(__&3587269621%$()$^%^'
 'yugioh_magic'
+'yumcha'
 'yuri'
 'yusserbaby'
 'yusufbasol'
