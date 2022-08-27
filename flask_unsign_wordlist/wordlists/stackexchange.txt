@@ -29,6 +29,7 @@
 "ediolognomomongoloide"
 "extremelysecretkeythatnoonewilleverknow"
 "fake key man"
+"ff82b98ef8727e388ea8bff063"
 "fsdijukofhselokiufhdskilujfhsdkihuifs"
 "greekfreak34"
 "hehe"
@@ -84,6 +85,7 @@
 'YQxi4wWAvBvQxqQxeqUU3BCfJpF'
 '[INSERT_SECRET_KEY_HERE]'
 '[REDACTED]'
+'[secretkey]'
 ']TZ6kf8E9VV{~jCeTu~.]nZytGamY'
 'a06e36942e9bfff5825591722ceaa170'
 'aN&^Q7&47C2Qwv9kv2rCvzcPC5C982Sn$YFg%CW$'
@@ -91,6 +93,7 @@
 'aaa#'
 'abc123ced456'
 'abcabcabc123'
+'abcde12568901fghij'
 'adawdaf'
 'adjadlkahd'
 'ailinssecretkey'
@@ -109,6 +112,7 @@
 'hjshjhdjah kjshkjdhjs'
 'its a secret, im not gonna put it on stack overflow'
 'kashjfaksjhfdlas'
+'kldsj q300test'
 'kungfoo'
 'my-very-very-secret-key'
 'my_hash_is_here'
