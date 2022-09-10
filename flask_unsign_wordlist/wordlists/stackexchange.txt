@@ -21,6 +21,7 @@
 "Thisisyoursecret"
 "Zd9TUg1aE03bHc28"
 "amaramw123"
+"any secret key"
 "b'QlJ\x99\xf2\xb1\x87\xc0\x87\x1b\xd7\xe9\xd3\xef\x9d\xe5'"
 "bd6fee817230f43dbbadce4f"
 "beans and lettuce"
@@ -43,6 +44,7 @@
 "qzy4HQe0tr1vhOgA6UTVssH9QvWJW2oL"
 "s8dfn39fn923q"
 "secret-token-output-from-terminal-as-above"
+"secretKeyLiesHere"
 "someweirdsecretkeywhatevermaybeuuid4"
 "stream"
 "thepain"
@@ -113,6 +115,7 @@
 'flask-ajax file upload test'
 'hjshjhdjah kjshkjdhjs'
 'its a secret, im not gonna put it on stack overflow'
+'just a string'
 'kashjfaksjhfdlas'
 'kldsj q300test'
 'kungfoo'
