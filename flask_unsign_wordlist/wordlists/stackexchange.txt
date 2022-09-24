@@ -40,6 +40,7 @@
 "hwiu2222"
 "my super secret key that no one is suppose to know"
 "my super secret key that no one is supposed ti know!"
+"my super secret key that no one is supposed to know!"
 "mysecret"
 "neverforgetyoursurvivor"
 "newtube"
@@ -123,6 +124,7 @@
 'kungfoo'
 'my-very-very-secret-key'
 'my_hash_is_here'
+'myrandomsecretkey'
 'noget_hemmeligt'
 'nogethemmeligt'
 'nonlosapraimai'
