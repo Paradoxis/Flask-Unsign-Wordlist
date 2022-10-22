@@ -26,11 +26,13 @@
 "b'QlJ\x99\xf2\xb1\x87\xc0\x87\x1b\xd7\xe9\xd3\xef\x9d\xe5'"
 "bd6fee817230f43dbbadce4f"
 "beans and lettuce"
+"chayan_codeder"
 "cokgizlibiranahtar"
 "coolguy"
 "devel"
 "ediolognomomongoloide"
 "extremelysecretkeythatnoonewilleverknow"
+"f30f929f2h3"
 "fake key man"
 "ff82b98ef8727e388ea8bff063"
 "fsdijukofhselokiufhdskilujfhsdkihuifs"
@@ -54,6 +56,7 @@
 "this is a secret key!"
 "ti=his is a test"
 "uhr78hv98n4n8y7b6em98x8794c87x3m98xtmmsce9n8ce"
+"verysecretmuchsecure"
 "wubba lubba dub dub"
 "yek_terces"
 '#$%4890+HjPç'
@@ -63,6 +66,7 @@
 '-mYrZF_M:uF-N#&Bi6M"dV4Og_Q8sO3IZE>Bdv(q<o!}t!3pU9#z%ugwzgCI_6'
 '....'
 '013ecbdd4aae3899c7feed1bf36dee4e'
+'0b843376d6f247b8a5e38df2'
 '0ddish'
 '2164e34cc6e79f2d731fd52b7e4b4858'
 '6dfde280ba245'
@@ -73,7 +77,9 @@
 '<< KEY >>'
 '<hiddenValue>'
 'Adb10C94wKJBBWJD89waABdaw1AKD01dawe112a'
+'AntheaPharma*01'
 'BB16'
+'BasicWeb'
 'Deleted_for_security'
 'Hi Mr Sea'
 'I15NxqBiJ7R9nnUWhM3Nd5dCu3TUM8su'
@@ -94,6 +100,7 @@
 '[REDACTED]'
 '[secretkey]'
 ']TZ6kf8E9VV{~jCeTu~.]nZytGamY'
+'_rV;He_7Bz8TVvA'
 'a06e36942e9bfff5825591722ceaa170'
 'aN&^Q7&47C2Qwv9kv2rCvzcPC5C982Sn$YFg%CW$'
 'aaa - key'
@@ -106,6 +113,7 @@
 'ailinssecretkey'
 'alksdfoaweiflsdkj'
 'app1234'
+'asdonasfbadkjdnkasjfbnkajsdnkasfnaksjdn'
 'bindthemostselling'
 'cac78a5498388aa4a95fb2be0f0a6499'
 'd43b80c0727dca296c607fe8f8db478264'
@@ -146,5 +154,6 @@
 'tmp-secret-key'
 'uguguyguyu'
 'welfhwdlhwdlfhwelfhwlehfwlehfelwehflwefwlehflwefhlwefhlewjfhwelfjhweflhweflhwel'
+'what_a_bad_secret_key'
 'yandexlyceum_secret_key'
 'ytestsone'
