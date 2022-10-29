@@ -21,6 +21,7 @@
 "PQrs12t46uvvrty567"
 "Thisisyoursecret"
 "Zd9TUg1aE03bHc28"
+"alguma string secreta"
 "amaramw123"
 "any secret key"
 "b'QlJ\x99\xf2\xb1\x87\xc0\x87\x1b\xd7\xe9\xd3\xef\x9d\xe5'"
@@ -63,6 +64,7 @@
 '#$%^&*'
 '#secret!'
 '(key)'
+'*******'
 '-mYrZF_M:uF-N#&Bi6M"dV4Og_Q8sO3IZE>Bdv(q<o!}t!3pU9#z%ugwzgCI_6'
 '....'
 '013ecbdd4aae3899c7feed1bf36dee4e'
@@ -80,6 +82,7 @@
 'AntheaPharma*01'
 'BB16'
 'BasicWeb'
+'Cuggo'
 'Deleted_for_security'
 'Hi Mr Sea'
 'I15NxqBiJ7R9nnUWhM3Nd5dCu3TUM8su'
@@ -117,6 +120,7 @@
 'bindthemostselling'
 'cac78a5498388aa4a95fb2be0f0a6499'
 'd43b80c0727dca296c607fe8f8db478264'
+'d64d7355a7118a8591b4a954c0112edc'
 'e14c80be9484a60c179678f7a0c5d6f1'
 'eigeinsonriuosvnirosjvsoe'
 'enter-your-app-secret-key'
@@ -124,6 +128,7 @@
 'f645748071241866b90c405a391033ac'
 'f8ef7794c87af3c748f5085e945b4cfd'
 'flask-ajax file upload test'
+'hardsecretkey'
 'hjshjhdjah kjshkjdhjs'
 'hufrhhfhrjfbrekjfberufureye4674656486435hjjjfhhkjsh'
 'its a secret, im not gonna put it on stack overflow'
