@@ -19,6 +19,7 @@
 "One Secret key here"
 "PQrs12t46uv"
 "PQrs12t46uvvrty567"
+"SECRETFORSESSIONS"
 "Thisisyoursecret"
 "Zd9TUg1aE03bHc28"
 "alguma string secreta"
@@ -36,11 +37,13 @@
 "f30f929f2h3"
 "fake key man"
 "ff82b98ef8727e388ea8bff063"
+"fresku"
 "fsdijukofhselokiufhdskilujfhsdkihuifs"
 "greekfreak34"
 "hehe"
 "hi this key is secret"
 "hwiu2222"
+"later"
 "my super secret key that no one is suppose to know"
 "my super secret key that no one is supposed ti know!"
 "my super secret key that no one is supposed to know!"
@@ -134,6 +137,7 @@
 'its a secret, im not gonna put it on stack overflow'
 'just a string'
 'kashjfaksjhfdlas'
+'kdxhfds iefhsdbf'
 'kldsj q300test'
 'kungfoo'
 'my-very-very-secret-key'

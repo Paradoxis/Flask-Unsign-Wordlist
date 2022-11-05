@@ -2,7 +2,7 @@
 [![Build Status](https://app.travis-ci.com/Paradoxis/Flask-Unsign-Wordlist.svg?branch=master)](https://app.travis-ci.com/github/Paradoxis/Flask-Unsign-Wordlist)
 [![PyPI version](https://badge.fury.io/py/flask-unsign-wordlist.svg)](https://badge.fury.io/py/flask-unsign-wordlist)
 [![codecov](https://codecov.io/gh/Paradoxis/Flask-Unsign-Wordlist/branch/master/graph/badge.svg)](https://codecov.io/gh/Paradoxis/Flask-Unsign-Wordlist)
-![total number of secrets: 51536](https://img.shields.io/badge/secrets-51536-brightgreen)
+![total number of secrets: 51770](https://img.shields.io/badge/secrets-51770-brightgreen)
 
 The following package is the standalone wordlist-only component to 
 [flask-unsign](https://github.com/Paradoxis/Flask-Unsign). The two parts are separated to prevent you from having to also download the rather bulky wordlists if you only want to use the code.
