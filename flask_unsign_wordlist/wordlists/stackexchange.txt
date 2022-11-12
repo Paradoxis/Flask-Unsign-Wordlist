@@ -44,6 +44,7 @@
 "hi this key is secret"
 "hwiu2222"
 "later"
+"lb7KZnlm16124hAahgq"
 "my super secret key that no one is suppose to know"
 "my super secret key that no one is supposed ti know!"
 "my super secret key that no one is supposed to know!"
@@ -97,6 +98,7 @@
 'NotForYou'
 'PRIVATE'
 'REMOVED_KEY'
+'Sekrit'
 'Slmjmls@89911@'
 'Something something'
 'SomethingSecret'
@@ -105,6 +107,7 @@
 '[INSERT_SECRET_KEY_HERE]'
 '[REDACTED]'
 '[secretkey]'
+'\x14B~^\x07\xe1\x197\xda\x18\xa6[[\x05\x03QVg\xce%\xb2<\x80\xa4\x00'
 ']TZ6kf8E9VV{~jCeTu~.]nZytGamY'
 '_rV;He_7Bz8TVvA'
 'a06e36942e9bfff5825591722ceaa170'
@@ -140,6 +143,7 @@
 'kdxhfds iefhsdbf'
 'kldsj q300test'
 'kungfoo'
+'luladraoconquistoumeucoracao'
 'my-very-very-secret-key'
 'my_hash_is_here'
 'my_sercret_key'
