@@ -1,4 +1,5 @@
 " not 'soo secret' key"
+"****"
 "*******************"
 "000abcdefghijk123456000"
 "1234"
@@ -8,6 +9,7 @@
 "AFN123"
 "ASGH}|#%*9"
 "Amma"
+"COP4814"
 "Example_Key"
 "F1"
 "HEXODECICUL"
@@ -21,6 +23,7 @@
 "PQrs12t46uvvrty567"
 "SECRETFORSESSIONS"
 "Thisisyoursecret"
+"Very secret"
 "Zd9TUg1aE03bHc28"
 "alguma string secreta"
 "amaramw123"
@@ -41,6 +44,7 @@
 "ff82b98ef8727e388ea8bff063"
 "fresku"
 "fsdijukofhselokiufhdskilujfhsdkihuifs"
+"g3AbKqKhxhCACvFNlNgLv802LUBwXQKr4X4Z9J9d"
 "greekfreak34"
 "hehe"
 "hi this key is secret"
@@ -78,6 +82,7 @@
 '0ddish'
 '2164e34cc6e79f2d731fd52b7e4b4858'
 '6dfde280ba245'
+'7364683972504ghfbeg7390'
 '7738ea1a60fd3213606f4d42846d3337'
 '89285b7e70587a31'
 '8e3416a9c67b328517b7b758875aaea0'
@@ -126,6 +131,7 @@
 'app1234'
 'asdonasfbadkjdnkasjfbnkajsdnkasfnaksjdn'
 'bindthemostselling'
+'c59a0b2727fed8c35a2f3312'
 'cac78a5498388aa4a95fb2be0f0a6499'
 'd43b80c0727dca296c607fe8f8db478264'
 'd64d7355a7118a8591b4a954c0112edc'
@@ -138,6 +144,7 @@
 'flask-ajax file upload test'
 'hardsecretkey'
 'hellolol'
+'helpme6969420420'
 'hjshjhdjah kjshkjdhjs'
 'hufrhhfhrjfbrekjfberufureye4674656486435hjjjfhhkjsh'
 'its a secret, im not gonna put it on stack overflow'
@@ -175,5 +182,6 @@
 'uguguyguyu'
 'welfhwdlhwdlfhwelfhwlehfwlehfelwehflwefwlehflwefhlwefhlewjfhwelfjhweflhweflhwel'
 'what_a_bad_secret_key'
+'wmgsis1234'
 'yandexlyceum_secret_key'
 'ytestsone'
