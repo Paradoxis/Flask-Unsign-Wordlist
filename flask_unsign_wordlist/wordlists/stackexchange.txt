@@ -25,6 +25,8 @@
 "Thisisyoursecret"
 "Very secret"
 "Zd9TUg1aE03bHc28"
+"adarshacharya"
+"aghdfy7652347623eduhvh"
 "alguma string secreta"
 "amaramw123"
 "any secret key"
@@ -37,6 +39,7 @@
 "cs"
 "devel"
 "dewan"
+"dkaodkocmasoxmawowma"
 "ediolognomomongoloide"
 "extremelysecretkeythatnoonewilleverknow"
 "f30f929f2h3"
@@ -49,6 +52,7 @@
 "hehe"
 "hi this key is secret"
 "hwiu2222"
+"ksjadlkajdlsad"
 "later"
 "lb7KZnlm16124hAahgq"
 "my super secret key that no one is suppose to know"
@@ -175,6 +179,7 @@
 'simple123'
 'sjdflksajflksajfsajflksajl'
 'some-super-secret-key'
+'some-very-secret-key'
 'stackoverflow'
 'thangvc91'
 'thisisourappssecretkey'
