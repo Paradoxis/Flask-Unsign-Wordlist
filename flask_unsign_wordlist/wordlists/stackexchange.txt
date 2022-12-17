@@ -185,6 +185,7 @@
 'thisisourappssecretkey'
 'tmp-secret-key'
 'uguguyguyu'
+'w1234rty1234'
 'welfhwdlhwdlfhwelfhwlehfwlehfelwehflwefwlehflwefhlwefhlewjfhwelfjhweflhweflhwel'
 'what_a_bad_secret_key'
 'wmgsis1234'
