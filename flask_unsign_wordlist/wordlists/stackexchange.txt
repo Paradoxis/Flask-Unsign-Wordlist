@@ -64,6 +64,7 @@
 "no password for you :)"
 "qzy4HQe0tr1vhOgA6UTVssH9QvWJW2oL"
 "s8dfn39fn923q"
+"sdfwq34qweds"
 "secret-token-output-from-terminal-as-above"
 "secretKeyLiesHere"
 "someweirdsecretkeywhatevermaybeuuid4"
@@ -165,6 +166,7 @@
 'my_hash_is_here'
 'my_sercret_key'
 'myrandomsecretkey'
+'mysecret!'
 'noget_hemmeligt'
 'nogethemmeligt'
 'nonlosapraimai'
@@ -186,6 +188,7 @@
 'stackoverflow'
 'thangvc91'
 'thisisourappssecretkey'
+'throwaway97b1d9abffce3c5dbf1d3d79079166eede16ca098550'
 'tmp-secret-key'
 'uguguyguyu'
 'w1234rty1234'
