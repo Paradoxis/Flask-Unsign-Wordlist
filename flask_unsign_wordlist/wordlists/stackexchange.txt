@@ -116,6 +116,7 @@
 'REMOVED_KEY'
 'Sekrit'
 'Slmjmls@89911@'
+'Somekey'
 'Something something'
 'SomethingSecret'
 'XXX]'
