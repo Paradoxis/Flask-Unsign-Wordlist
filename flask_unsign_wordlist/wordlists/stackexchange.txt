@@ -20,6 +20,7 @@
 "Mysecret!"
 "NG2022"
 "One Secret key here"
+"Oz8Z7Iu&DwoQK)g%*Wit2YpE#-46vy0n"
 "PQrs12t46uv"
 "PQrs12t46uvvrty567"
 "SECRETFORSESSIONS"
