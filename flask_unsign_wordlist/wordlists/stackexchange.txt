@@ -24,6 +24,7 @@
 "PQrs12t46uv"
 "PQrs12t46uvvrty567"
 "SECRETFORSESSIONS"
+"THISISKEY"
 "Thisisyoursecret"
 "Very secret"
 "Zd9TUg1aE03bHc28"
@@ -116,6 +117,7 @@
 'NotForYou'
 'PRIVATE'
 'REMOVED_KEY'
+'SPQR'
 'Sekrit'
 'Slmjmls@89911@'
 'Somekey'
@@ -158,6 +160,7 @@
 'f645748071241866b90c405a391033ac'
 'f8ef7794c87af3c748f5085e945b4cfd'
 'flask-ajax file upload test'
+'hard to guess'
 'hardsecretkey'
 'hellolol'
 'helpme6969420420'
