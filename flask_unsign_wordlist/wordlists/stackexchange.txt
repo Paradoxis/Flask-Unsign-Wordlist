@@ -28,6 +28,7 @@
 "Thisisyoursecret"
 "Very secret"
 "Zd9TUg1aE03bHc28"
+"\xf0?a\x9a\\\xff\xd4;\x0c\xcbHi"
 "adarshacharya"
 "aghdfy7652347623eduhvh"
 "alguma string secreta"
@@ -193,6 +194,7 @@
 'sdafwer3rw93ur9wu0er339d'
 'sdafwer3rw93ur9wu0er339de'
 'sdfnbsifhosdfsdsfsddfsdfiewl'
+'secretkeyaololo78!'
 'secretomucho'
 'shhh dont tell'
 'simple123'
