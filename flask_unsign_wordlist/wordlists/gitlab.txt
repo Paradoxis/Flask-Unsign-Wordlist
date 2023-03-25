@@ -2,6 +2,7 @@
 "9OLWxND4o83j4K4iuopO"
 "Ajw%&YQ!f#C$L9fc8ci4Vq&MwA*KtxPwbr&2Qq"
 "my super secret key that no one"
+"noacanoa"
 "oWo beri s3cr37"
 "retr0cube"
 'UM'
@@ -10,8 +11,10 @@
 'censored'
 'cuhuytien'
 'cuhuytien3003'
+'database_secret_key'
 'djklasnjdIODEohuo82132(("/2j'
 'fi_9%z)fgmpxya-&f6vpn9g(un9yyx4n0(512%0v1b)*=-82r7'
+'hjsdsisgdigr erohegrgiergi'
 'humandetector'
 'retr0cube'
 'supergeheim'
