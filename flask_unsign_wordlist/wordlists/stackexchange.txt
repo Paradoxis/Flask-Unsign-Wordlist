@@ -35,12 +35,14 @@
 "amaramw123"
 "any secret key"
 "b'QlJ\x99\xf2\xb1\x87\xc0\x87\x1b\xd7\xe9\xd3\xef\x9d\xe5'"
+"b'\x9f\xd7\xf0\x90z\x07\x9c\xcd^\x84\x9ex'"
 "bd6fee817230f43dbbadce4f"
 "beans and lettuce"
 "chayan_codeder"
 "cokgizlibiranahtar"
 "coolguy"
 "cs"
+"czOWE9w7nfe7Z6UpLPaEHC2NXMJzUI57"
 "devel"
 "dewan"
 "dkaodkocmasoxmawowma"
@@ -59,6 +61,7 @@
 "ksjadlkajdlsad"
 "later"
 "lb7KZnlm16124hAahgq"
+"my secret key isn't secret when posted on stack overflow ¯\_(ツ)_/¯"
 "my super secret key that no one is suppose to know"
 "my super secret key that no one is supposed ti know!"
 "my super secret key that no one is supposed to know!"
@@ -93,6 +96,7 @@
 '2164e34cc6e79f2d731fd52b7e4b4858'
 '26a0674ea4aea97ffa9950534e308428'
 '471118121951'
+'5ef9e49a4ece37050f2aefeea1a965c3'
 '6dfde280ba245'
 '7364683972504ghfbeg7390'
 '7738ea1a60fd3213606f4d42846d3337'
@@ -156,6 +160,7 @@
 'careatcall software'
 'd43b80c0727dca296c607fe8f8db478264'
 'd64d7355a7118a8591b4a954c0112edc'
+'dlskdlkjadlkjadlakjsd'
 'e14c80be9484a60c179678f7a0c5d6f1'
 'eigeinsonriuosvnirosjvsoe'
 'enter-your-app-secret-key'
