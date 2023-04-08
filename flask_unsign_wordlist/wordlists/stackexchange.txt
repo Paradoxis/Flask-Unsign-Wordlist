@@ -29,6 +29,7 @@
 "Very secret"
 "Zd9TUg1aE03bHc28"
 "\xf0?a\x9a\\\xff\xd4;\x0c\xcbHi"
+"aasdff"
 "adarshacharya"
 "aghdfy7652347623eduhvh"
 "alguma string secreta"
@@ -188,6 +189,7 @@
 'my_sercret_key'
 'myrandomsecretkey'
 'mysecret!'
+'needs-to-be-changed'
 'never'
 'noget_hemmeligt'
 'nogethemmeligt'
@@ -223,3 +225,4 @@
 'yandexlyceum_secret_key'
 'ytestsone'
 'zwolnienizteorii44893'
+'{key}'
