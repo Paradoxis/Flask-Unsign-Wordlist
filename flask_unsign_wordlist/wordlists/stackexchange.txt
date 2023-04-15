@@ -6,6 +6,7 @@
 "1234-asdf-!@#$-ASDF"
 "123string"
 "34Secret56"
+"726HAJ278a"
 "AFN123"
 "ASGH}|#%*9"
 "Actual one is a fixed, random string like 89hsfd98sdhf89u983qwj9"
@@ -135,6 +136,7 @@
 '[REDACTED]'
 '[secretkey]'
 '\x14B~^\x07\xe1\x197\xda\x18\xa6[[\x05\x03QVg\xce%\xb2<\x80\xa4\x00'
+'\xaa_:P\xcd4X\xf7\xebAA\x07=,\x8f\n&\xac\xc8\xc8\xa8}\x13P'
 ']TZ6kf8E9VV{~jCeTu~.]nZytGamY'
 '_rV;He_7Bz8TVvA'
 'a06e36942e9bfff5825591722ceaa170'
@@ -152,6 +154,7 @@
 'app1234'
 'arpit'
 'asdonasfbadkjdnkasjfbnkajsdnkasfnaksjdn'
+'b61198e1258118d75478e8e4'
 'bindthemostselling'
 'blahBlah'
 'c59a0b2727fed8c35a2f3312'
