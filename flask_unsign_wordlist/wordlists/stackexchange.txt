@@ -7,6 +7,7 @@
 "123string"
 "34Secret56"
 "726HAJ278a"
+"80aa3b5fb3563a688d51e6349d599f78"
 "AFN123"
 "ASGH}|#%*9"
 "Actual one is a fixed, random string like 89hsfd98sdhf89u983qwj9"
@@ -203,6 +204,7 @@
 'pf9Wkove4IKEAXvy-cQkeDPhv9Cb3Ag-wyJILbq_dFw'
 'qwe'
 'replace-later'
+'sEcReT'
 'samplestuff!'
 'sdafwer3rw93ur9wu0er339d'
 'sdafwer3rw93ur9wu0er339de'

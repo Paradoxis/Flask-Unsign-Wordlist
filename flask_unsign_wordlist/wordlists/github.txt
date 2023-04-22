@@ -1943,6 +1943,7 @@
 "Chips n Dip"
 "Chips n dip"
 "Chloe"
+"ChocolateDBPassword"
 "Choose very long secret key"
 "CiTyP0p"
 "CiscoISEShared"
@@ -10410,6 +10411,7 @@
 '  yomommasofatshebendslight'
 ' "123'
 ' "28fef1d9f7f9df134be573ae81b22ffff6a84e22710c927d'
+' "6Lfm2lUUAAAAAMmJg_mXa_x-x1DDKSCLDBo8hqdM'
 ' "ENGII'
 ' "IHUGVFIYUJYIGUibt6gh'
 ' "No one will be able to come in'
@@ -10585,6 +10587,7 @@
 ' unafrase_o_palabrasinespacios'
 ' wineauntemet'
 ' wsfwsfwsfsfg'
+' your-secret-key-is-secret'
 ' {{ secret_key }}'
 '!!!!!CHANGE ME!!!!!'
 '!!!-_-_-_-~~~Alohomora~~~-_-_-_-!!!'
@@ -10955,6 +10958,7 @@
 '$DATAPATH\\\\db27020`'
 '$DATAPATH`'
 '$DEFAULT_CA'
+'$FLASK_SECRET_KEY'
 '$GITHUB_ACCESS_TOKEN'
 '$HOMEDIR/$user/conf/web/$WEB_SYSTEM.$domain.conf_htaccess'
 '$HPF_SECRET'
@@ -14748,6 +14752,7 @@
 '<ENTER SECRET KEY>'
 '<Enter your secret key. Leave empty to have a randomized string as the secret key.>'
 '<Enter your secret key>'
+'<FLASK SECRET KEY>'
 '<FLASK-SECRET_KEY>'
 '<GOOGLE_API_KEY>'
 '<INSERT APP KEY HERE>'
@@ -16760,6 +16765,7 @@
 'HahaNoSecret'
 'Hakuna Matata'
 'HannahJohnson'
+'Hao'
 'Hard style Republic'
 'Hard to guess!'
 'Hari4444'
@@ -19744,6 +19750,7 @@
 '[Kb\x16o\x05\xc7\xc5P\xd8bB/@\x81\x8b\xd8\x94\x83\xcf\xed\xf4n\xc9'
 '[REDACTED]'
 '[SECRET_KEY]'
+'[SET ME]'
 '[SHARED_ACCESS_KEY]'
 '[YOUR GOOGLE PLACES API KEY]'
 '[YOUR-SECRET-KEY]'
@@ -22731,6 +22738,7 @@
 'chiran'
 'chm'
 'chocobar'
+'chooseasecretkey'
 'chooseaverysecretkeyhere'
 'chris'
 'christal'
@@ -26065,6 +26073,7 @@
 'jdfkjdjdkjdf4432rfff'
 'jdfsduyfdsuyfdsufusdfuoidsufi'
 'jdhndbcdkl'
+'jdjkenenHHdsjdbb7Gewk'
 'jdkfsjdlf'
 'jdoaitjqpfldaf;l'
 'jdsecretkey'
@@ -27521,6 +27530,7 @@
 'my-app-key'
 'my-key'
 'my-kltn'
+'my-long-and-hard-to-guess-secret-key'
 'my-oauth2-access-token'
 'my-precious'
 'my-seCret_KEy'
@@ -30299,6 +30309,7 @@
 'siri'
 'sisis'
 'sit_raman'
+'site2'
 'site_admin'
 'siyajobfinder'
 'size'
@@ -32983,6 +32994,7 @@
 '{Client Secret}'
 '{DAE1A88C-6C16-4768-ACA5-6F1247EA01C2}'
 '{Fernet.generate_key().decode()}'
+'{YOUR SECRET KEY}'
 '{YOUR_TWITTER_CLIENT_SECRET}'
 '{YOUR_UBER_APP_SECRET}'
 '{\\'
