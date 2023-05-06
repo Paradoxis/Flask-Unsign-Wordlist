@@ -27,6 +27,7 @@
 'hjsdsisgdigr erohegrgiergi'
 'humandetector'
 'jcc123Lochasan'
+'my_secret_flask_key'
 'retr0cube'
 's3cr3tk3y'
 'supergeheim'
