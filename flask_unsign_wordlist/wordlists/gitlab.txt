@@ -8,6 +8,7 @@
 "oWo beri s3cr37"
 "retr0cube"
 "team5key"
+'**REDACTED**'
 '661a50e0edbb39371492d2a3518cb98b94c7b22efc972448c8'
 '96c16001c4ce9f6c4970327f04cbde832cdec4bae1d09165'
 'JKDNLSNVJNKANOSDION'
@@ -30,6 +31,7 @@
 'my_secret_flask_key'
 'retr0cube'
 's3cr3tk3y'
+'scrapy123456790'
 'supergeheim'
 'tTwoNqJHBTktFsSu'
 'teste@123'
