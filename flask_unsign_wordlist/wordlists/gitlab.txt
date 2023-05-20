@@ -8,8 +8,10 @@
 "oWo beri s3cr37"
 "retr0cube"
 "team5key"
+')1p`Wq&zel@R@g(.>9b{Irct39.DHg'
 '**REDACTED**'
 '661a50e0edbb39371492d2a3518cb98b94c7b22efc972448c8'
+'8Hf4$sd9!1Mn0321#'
 '96c16001c4ce9f6c4970327f04cbde832cdec4bae1d09165'
 'JKDNLSNVJNKANOSDION'
 'MAKE THIS SECRET'
@@ -29,6 +31,7 @@
 'humandetector'
 'jcc123Lochasan'
 'my_secret_flask_key'
+'palavra-secreta'
 'retr0cube'
 's3cr3tk3y'
 'scrapy123456790'
