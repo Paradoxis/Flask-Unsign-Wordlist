@@ -77,6 +77,7 @@
 "sdfwq34qweds"
 "secret-token-output-from-terminal-as-above"
 "secretKeyLiesHere"
+"some-random-key"
 "someweirdsecretkeywhatevermaybeuuid4"
 "stream"
 "thepain"
@@ -84,6 +85,7 @@
 "ti=his is a test"
 "uhr78hv98n4n8y7b6em98x8794c87x3m98xtmmsce9n8ce"
 "verysecretmuchsecure"
+"vndbnhjbd1383789a9QA=u292gfdj7v"
 "wubba lubba dub dub"
 "yek_terces"
 '#$%4890+HjPç'
@@ -165,6 +167,7 @@
 'cac78a5498388aa4a95fb2be0f0a6499'
 'campaigntoolskpr'
 'careatcall software'
+'coniferouslyfantastical'
 'd43b80c0727dca296c607fe8f8db478264'
 'd64d7355a7118a8591b4a954c0112edc'
 'dlskdlkjadlkjadlakjsd'
@@ -214,6 +217,7 @@
 'sdafwer3rw93ur9wu0er339d'
 'sdafwer3rw93ur9wu0er339de'
 'sdfnbsifhosdfsdsfsddfsdfiewl'
+'secret goes here'
 'secretkeyaololo78!'
 'secretomucho'
 'shhh dont tell'
