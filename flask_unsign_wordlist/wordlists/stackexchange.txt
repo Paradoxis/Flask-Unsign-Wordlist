@@ -13,6 +13,7 @@
 "Actual one is a fixed, random string like 89hsfd98sdhf89u983qwj9"
 "Amma"
 "COP4814"
+"Core123"
 "Example_Key"
 "F1"
 "HEXODECICUL"
@@ -61,6 +62,7 @@
 "hehe"
 "hi this key is secret"
 "hwiu2222"
+"irt9539jgn"
 "ksjadlkajdlsad"
 "later"
 "lb7KZnlm16124hAahgq"
@@ -73,6 +75,7 @@
 "newtube"
 "no password for you :)"
 "qzy4HQe0tr1vhOgA6UTVssH9QvWJW2oL"
+"removedSecretKey"
 "s8dfn39fn923q"
 "sdfwq34qweds"
 "secret-token-output-from-terminal-as-above"
@@ -232,6 +235,7 @@
 'tmp-secret-key'
 'udOAg]!YzPC}=%WW}3"+K>E*[x7`XV&iGExmEDz>|4fbL$a51{J.VNQW7_9a4oO'
 'uguguyguyu'
+'vmkey'
 'w1234rty1234'
 'welfhwdlhwdlfhwelfhwlehfwlehfelwehflwefwlehflwefhlwefhlewjfhwelfjhweflhweflhwel'
 'what_a_bad_secret_key'
