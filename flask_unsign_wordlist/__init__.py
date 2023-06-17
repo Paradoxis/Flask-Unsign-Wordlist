@@ -1,4 +1,4 @@
-__version__ = '2023.22'
+__version__ = '2023.23'
 __url__ = 'https://github.com/Paradoxis/Flask-Unsign-Wordlist'
 __author__ = 'Luke Paris (Paradoxis)'
 

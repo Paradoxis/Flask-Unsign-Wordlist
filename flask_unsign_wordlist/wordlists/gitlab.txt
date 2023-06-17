@@ -30,6 +30,7 @@
 'hjsdsisgdigr erohegrgiergi'
 'humandetector'
 'jcc123Lochasan'
+'moviesapplicationtokenkeygenerator'
 'my_secret_flask_key'
 'oogaboogacoccobello'
 'palavra-secreta'
