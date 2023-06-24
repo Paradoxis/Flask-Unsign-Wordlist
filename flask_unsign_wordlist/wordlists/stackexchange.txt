@@ -4,6 +4,7 @@
 "000abcdefghijk123456000"
 "1234"
 "1234-asdf-!@#$-ASDF"
+"1234567abcdef"
 "123string"
 "34Secret56"
 "726HAJ278a"
@@ -231,6 +232,7 @@
 'some-super-secret-key'
 'some-very-secret-key'
 'stackoverflow'
+'temporary2'
 'thangvc91'
 'thisisourappssecretkey'
 'throwaway97b1d9abffce3c5dbf1d3d79079166eede16ca098550'
