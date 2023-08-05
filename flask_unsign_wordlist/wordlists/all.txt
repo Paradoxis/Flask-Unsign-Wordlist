@@ -8525,6 +8525,7 @@
 "Encryption"
 "EnsemblHandoverFormValidate"
 "Enter here a long random secret key without quotes. Husshhhhh, don't share this key!"
+"Enter here"
 "Enter your access token"
 "Enter your key here"
 "Enter-your-key-here"
@@ -33332,6 +33333,7 @@
 'Change me'
 'Change this mapsAPIKEY'
 'ChangeMe!'
+'ChangeMe'
 'ChangeServiceConfig2A'
 'ChangeThis'
 'Chapiya'
@@ -44527,6 +44529,7 @@
 'flaskSecret'
 'flask_blog'
 'flask_dev_key'
+'flask_notepad_key'
 'flask_sample_test_secret_key'
 'flask_secret_key'
 'flask_session_key_inventada'
@@ -51551,6 +51554,7 @@
 'secret_password'
 'secret_phrase'
 'secret_random_key'
+'secret_secret'
 'secret_session_key'
 'secret_shhhhh!@#$1234'
 'secret_squirrel_stuff'
@@ -53991,6 +53995,7 @@
 'unreliable secret key which is visible on github'
 'unsafe'
 'unsafe-secret-key'
+'unsecretvraiment'
 'unselectable'
 'unsupported api'
 'unsupported_goEnum'

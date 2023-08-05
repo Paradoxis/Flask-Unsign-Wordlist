@@ -16,6 +16,7 @@
 "Amma"
 "COP4814"
 "Core123"
+"Enter here"
 "Example_Key"
 "F1"
 "HEXODECICUL"
@@ -229,6 +230,7 @@
 'sdafwer3rw93ur9wu0er339de'
 'sdfnbsifhosdfsdsfsddfsdfiewl'
 'secret goes here'
+'secret_secret'
 'secretcodeneeded'
 'secretkeyaololo78!'
 'secretomucho'
@@ -245,6 +247,7 @@
 'tmp-secret-key'
 'udOAg]!YzPC}=%WW}3"+K>E*[x7`XV&iGExmEDz>|4fbL$a51{J.VNQW7_9a4oO'
 'uguguyguyu'
+'unsecretvraiment'
 'vmkey'
 'w1234rty1234'
 'welfhwdlhwdlfhwelfhwlehfwlehfelwehflwefwlehflwefhlwefhlewjfhwelfjhweflhweflhwel'
