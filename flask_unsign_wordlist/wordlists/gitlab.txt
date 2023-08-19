@@ -30,6 +30,7 @@
 'cuhuytien3003'
 'database_secret_key'
 'djklasnjdIODEohuo82132(("/2j'
+'e5b446169dd49e3b7f1bb841'
 'fi_9%z)fgmpxya-&f6vpn9g(un9yyx4n0(512%0v1b)*=-82r7'
 'flask_notepad_key'
 'hdsghsdkjhgsfdlgh'
